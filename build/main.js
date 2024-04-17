@@ -2581,8 +2581,8 @@ var GuiManagerProvider = /** @class */ (function () {
             ],
             Einstellungen: [
                 { title: 'Login', component: 'LoginPage', icon: '' },
-                { title: 'Intro', component: 'IntroSliderPage', icon: '' },
-                // {title: 'Impressum', component: 'ImprintPage', icon: ''},
+                // {title: 'Intro', component: 'IntroSliderPage', icon: ''},
+                { title: 'Impressum', component: 'ImprintPage', icon: '' },
                 // {title: 'Datenschutzerklärung', component: 'TextPage', icon: '', params: {html: true, closable: false, target: this.linkManager.getDatenschutzAsJSON()}},
                 // {title: 'Nutzungsbedingungen', component: 'TextPage', icon: '', params: {html: true, closable: false, target: this.linkManager.getNutungsbedingungenAsHalJSON()}}
             ]
@@ -2933,13 +2933,10 @@ var GuiManagerProvider = /** @class */ (function () {
         this.showPopupMessage("Sie wurden ausgeloggt", "Zu Ihrer Sicherheit wurden Sie aufgrund einer Inaktivität von 20 Minuten automatisch aus der Anwendung ausgeloggt.\n" +
             "Sie können sich wieder einloggen, indem Sie die Login-Seite besuchen.", function () { }, false);
     };
+    var _a, _b, _c, _d, _e;
     GuiManagerProvider = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2_ionic_angular__["q" /* ToastController */],
-            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* LoadingController */],
-            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */],
-            __WEBPACK_IMPORTED_MODULE_3__link_manager_link_manager__["a" /* LinkManagerProvider */],
-            __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* App */]])
+        __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["q" /* ToastController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["q" /* ToastController */]) === "function" ? _a : Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* LoadingController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["h" /* LoadingController */]) === "function" ? _b : Object, typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["a" /* AlertController */]) === "function" ? _c : Object, typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_3__link_manager_link_manager__["a" /* LinkManagerProvider */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_3__link_manager_link_manager__["a" /* LinkManagerProvider */]) === "function" ? _d : Object, typeof (_e = typeof __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* App */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["b" /* App */]) === "function" ? _e : Object])
     ], GuiManagerProvider);
     return GuiManagerProvider;
 }());
