@@ -300,7 +300,7 @@ var ElectronProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__link_manager_link_manager__ = __webpack_require__(78);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_moment__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_12_moment__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__pages_checkin_conditions__ = __webpack_require__(452);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__pages_checkin_conditions__ = __webpack_require__(453);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__draw_draw__ = __webpack_require__(180);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__form_manager_form_manager__ = __webpack_require__(402);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -1229,7 +1229,7 @@ var CheckinServiceProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__api_api__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__file_modal__ = __webpack_require__(617);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__file_modal__ = __webpack_require__(625);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__electron_electron__ = __webpack_require__(109);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__services_is_cordova_available__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__storage_manager_storage_manager__ = __webpack_require__(39);
@@ -1912,7 +1912,7 @@ var DrawProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_background_fetch__ = __webpack_require__(400);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_phonegap_local_notification__ = __webpack_require__(401);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__file_manager_file_manager__ = __webpack_require__(111);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_firebase__ = __webpack_require__(184);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_firebase__ = __webpack_require__(185);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__electron_electron__ = __webpack_require__(109);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__services_is_cordova_available__ = __webpack_require__(80);
@@ -2254,11 +2254,11 @@ webpackEmptyAsyncContext.id = 215;
 
 var map = {
 	"../pages/calendar.module/calendar/calendar.module": [
-		668,
+		667,
 		5
 	],
 	"../pages/calendar.module/event-modal/event-modal.module": [
-		667,
+		668,
 		34
 	],
 	"../pages/checkin-for-doctors/checkin-for-doctors.module": [
@@ -2266,15 +2266,15 @@ var map = {
 		33
 	],
 	"../pages/checkin/checkin.module": [
-		675,
+		673,
 		32
 	],
 	"../pages/debugger/debugger.module": [
-		670,
+		671,
 		31
 	],
 	"../pages/document/document.module": [
-		671,
+		670,
 		30
 	],
 	"../pages/draw/draw.module": [
@@ -2282,19 +2282,19 @@ var map = {
 		29
 	],
 	"../pages/email-confirmation/email-confirmation.module": [
-		673,
+		674,
 		28
 	],
 	"../pages/file-upload/file-upload.module": [
-		674,
+		675,
 		27
 	],
 	"../pages/food-card/food-card.module": [
-		679,
+		676,
 		26
 	],
 	"../pages/imprint/imprint.module": [
-		676,
+		678,
 		25
 	],
 	"../pages/info-item/info-item.module": [
@@ -2302,19 +2302,19 @@ var map = {
 		24
 	],
 	"../pages/info-list/info-list.module": [
-		681,
+		680,
 		4
 	],
 	"../pages/intro-slider/intro-slider.module": [
-		678,
+		679,
 		23
 	],
 	"../pages/login/login.module": [
-		680,
+		682,
 		22
 	],
 	"../pages/map/map.module": [
-		682,
+		681,
 		3
 	],
 	"../pages/message-center/message-center.module": [
@@ -2322,43 +2322,43 @@ var map = {
 		2
 	],
 	"../pages/news-item/news-item.module": [
-		685,
+		684,
 		21
 	],
 	"../pages/news-list/news-list.module": [
-		684,
+		686,
 		0
 	],
 	"../pages/news/news.module": [
-		688,
+		685,
 		20
 	],
 	"../pages/password-reset/password-reset.module": [
-		689,
+		687,
 		19
 	],
 	"../pages/privacy/privacy.module": [
-		686,
+		688,
 		18
 	],
 	"../pages/start-filter/start-filter.module": [
-		698,
+		690,
 		17
 	],
 	"../pages/start-text/start-text.module": [
-		687,
+		689,
 		16
 	],
 	"../pages/text/text.module": [
-		691,
+		692,
 		15
 	],
 	"../pages/therapy-entry/therapy-entry.module": [
-		690,
+		693,
 		14
 	],
 	"../pages/tos/tos.module": [
-		692,
+		691,
 		13
 	],
 	"../pages/user-settings-account-information/user-settings-account-information.module": [
@@ -2366,7 +2366,7 @@ var map = {
 		12
 	],
 	"../pages/user-settings-change-password/user-settings-change-password.module": [
-		693,
+		697,
 		11
 	],
 	"../pages/user-settings-create-account/user-settings-create-account.module": [
@@ -2374,15 +2374,15 @@ var map = {
 		10
 	],
 	"../pages/user-settings-fingerprint-activation/user-settings-fingerprint-activation.module": [
-		696,
+		698,
 		9
 	],
 	"../pages/user-settings-message-center/user-settings-message-center.module": [
-		697,
+		696,
 		8
 	],
 	"../pages/user-settings-push-notification/user-settings-push-notification.module": [
-		701,
+		700,
 		7
 	],
 	"../pages/user-settings-refill-keys/user-settings-refill-keys.module": [
@@ -2390,7 +2390,7 @@ var map = {
 		6
 	],
 	"../pages/user-settings/user-settings.module": [
-		700,
+		701,
 		1
 	]
 };
@@ -2418,7 +2418,7 @@ module.exports = webpackAsyncContext;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_storage__ = __webpack_require__(183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_storage__ = __webpack_require__(184);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -2488,10 +2488,9 @@ var StorageManagerProvider = /** @class */ (function () {
                 callback();
         });
     };
-    var _a;
     StorageManagerProvider = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
-        __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_2__ionic_storage__["b" /* Storage */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__ionic_storage__["b" /* Storage */]) === "function" ? _a : Object])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__ionic_storage__["b" /* Storage */]])
     ], StorageManagerProvider);
     return StorageManagerProvider;
 }());
@@ -2958,7 +2957,7 @@ var GuiManagerProvider = /** @class */ (function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormManagerProvider; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__form_modal__ = __webpack_require__(625);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__form_modal__ = __webpack_require__(626);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__storage_manager_storage_manager__ = __webpack_require__(39);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__api_api__ = __webpack_require__(48);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -3248,265 +3247,12 @@ var TouchManagerProvider = /** @class */ (function () {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarEvent; });
-var CalendarEvent = /** @class */ (function () {
-    function CalendarEvent(start, end, title, location, notes, allday, message, calendarType, id, typeOfMeeting, attending, participants, practitioner) {
-        if (start === void 0) { start = new Date(); }
-        if (end === void 0) { end = new Date(); }
-        if (title === void 0) { title = ""; }
-        if (location === void 0) { location = ""; }
-        if (notes === void 0) { notes = ""; }
-        if (allday === void 0) { allday = false; }
-        if (message === void 0) { message = ""; }
-        if (calendarType === void 0) { calendarType = CalendarEvent.CLINET_CALENDAR_TYPE; }
-        if (id === void 0) { id = -1; }
-        if (typeOfMeeting === void 0) { typeOfMeeting = CalendarEvent.TYPE1_EVENT_TYPE; }
-        if (attending === void 0) { attending = false; }
-        if (participants === void 0) { participants = ""; }
-        if (practitioner === void 0) { practitioner = ""; }
-        this.title = title;
-        this.location = location;
-        this.notes = notes;
-        this.startTime = start;
-        this.endTime = end;
-        this.allday = allday;
-        this.message = message;
-        this.id = id;
-        this.calendarType = calendarType;
-        this.typeOfMeeting = typeOfMeeting;
-        this.attending = attending;
-        this.participants = participants;
-        this.practitioner = practitioner;
-    }
-    CalendarEvent.getEventTypeByNumber = function (type) {
-        if (type == CalendarEvent.TYPE1_EVENT_TYPE)
-            return CalendarEvent.TYPE1_EVENT_TYPE_TEXT;
-        if (type == CalendarEvent.TYPE2_EVENT_TYPE)
-            return CalendarEvent.TYPE2_EVENT_TYPE_TEXT;
-        if (type == CalendarEvent.GLOBAL_EVENT_TYPE)
-            return CalendarEvent.GLOBAL_EVENT_TYPE_TEXT;
-    };
-    CalendarEvent.prototype.getHTMLClassName = function () {
-        //console.log("Cal event, HTML class: ", event);
-        if (this.typeOfMeeting == CalendarEvent.TYPE2_EVENT_TYPE) {
-            return "CustomColorType2";
-        }
-        else {
-            return "CustomColorUnknownType";
-        }
-    };
-    CalendarEvent.CUSTOM_TEXT_FOR_APPLICATION = "--- Created by CLINET application.";
-    CalendarEvent.CLINET_CALENDAR_TYPE = "CLINET";
-    CalendarEvent.GLOBAL_CALENDAR_TYPE = "Global";
-    CalendarEvent.EXTERNAL_CALENDAR_TYPE = "External";
-    CalendarEvent.TYPE1_EVENT_TYPE = 1;
-    CalendarEvent.TYPE2_EVENT_TYPE = 2;
-    CalendarEvent.GLOBAL_EVENT_TYPE = 3;
-    CalendarEvent.TYPE1_EVENT_TYPE_TEXT = "Type1 event";
-    CalendarEvent.TYPE2_EVENT_TYPE_TEXT = "Type2 event";
-    CalendarEvent.GLOBAL_EVENT_TYPE_TEXT = "Global event";
-    CalendarEvent.ALL_EVENT_TYPES = [CalendarEvent.TYPE1_EVENT_TYPE, CalendarEvent.TYPE2_EVENT_TYPE, CalendarEvent.GLOBAL_EVENT_TYPE];
-    return CalendarEvent;
-}());
-
-//# sourceMappingURL=calendarEvent.Model.js.map
-
-/***/ }),
-
-/***/ 452:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Process; });
-var Process = /** @class */ (function () {
-    function Process() {
-    }
-    Process.rulesFullFilled = function (condition, item, currentValues) {
-        //         if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
-        // //          console.info(item.rules);
-        //         }
-        for (var i = 0; i < item.rules.length; i++) {
-            var current = item.rules[i];
-            if (current.effect != condition)
-                continue;
-            var conditions = current.conditions;
-            for (var c = 0; c < conditions.length; c++) {
-                var currentCondition = conditions[c];
-                var nameSearched = currentCondition.name;
-                var type = currentCondition.type;
-                var value = currentCondition.value;
-                // if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
-                //     // console.info(currentCondition);
-                //     // console.info(currentValues);
-                // }
-                var actualValue = null;
-                for (var w = 0; w < currentValues.length; w++) {
-                    if (currentValues[w].key == nameSearched) {
-                        if (currentCondition.fromArray) {
-                            actualValue = currentValues[w].value[currentCondition.arrId - 1].ref;
-                        }
-                        else {
-                            actualValue = currentValues[w].value;
-                        }
-                        break;
-                    }
-                }
-                if (actualValue == null) {
-                    switch (condition) {
-                        case "visible": {
-                            return conditions.length == 0;
-                        }
-                        case "disabled": {
-                            return false;
-                        }
-                    }
-                }
-                switch (condition) {
-                    case "visible": {
-                        return Process.parseVisible(type, actualValue, value);
-                    }
-                    case "disabled": {
-                        return Process.parseDisabled(type, actualValue, value);
-                    }
-                }
-            }
-        }
-        switch (condition) {
-            case "visible": {
-                return true;
-            }
-            case "disabled": {
-                return false;
-            }
-            case "required": {
-                return Process.parseRequired(item);
-            }
-        }
-    };
-    /*
-      Returns if the specified Node item or its children have any unfulfilled required Rule.
-      Returns true if any required rule is unfulfilled, false otherwise.
-     */
-    Process.parseRequired = function (item) {
-        if (item.children.length == 0) {
-            for (var _i = 0, _a = item.rules; _i < _a.length; _i++) {
-                var rule = _a[_i];
-                if (rule.effect == "required") {
-                    return !(item.reflector != null && item.reflector != "");
-                }
-            }
-            return false;
-        }
-        else {
-            var required = false;
-            for (var _b = 0, _c = item.rules; _b < _c.length; _b++) {
-                var rule = _c[_b];
-                if (rule.effect == "required") {
-                    required = !(item.reflector != null && item.reflector != "");
-                }
-            }
-            for (var _d = 0, _e = item.children; _d < _e.length; _d++) {
-                var childNode = _e[_d];
-                if (required)
-                    break;
-                required = Process.parseRequired(childNode);
-            }
-            return required;
-        }
-    };
-    Process.parseVisible = function (type, actualValue, value) {
-        switch (type) {
-            case "unchecked": {
-                if (actualValue == true)
-                    return false;
-                break;
-            }
-            case "filled": {
-                if (value) {
-                    if (actualValue.length == 0 || actualValue == false)
-                        return false;
-                }
-                else {
-                    if (actualValue.length != 0 || actualValue == true)
-                        return false;
-                }
-                break;
-            }
-            case "empty": {
-                if (value && actualValue.length != 0)
-                    return false;
-                if (!value && actualValue.length == 0)
-                    return false;
-                break;
-            }
-            case "value": {
-                if (value != actualValue)
-                    return false;
-                break;
-            }
-            case "!value": {
-                if (value == actualValue)
-                    return false;
-                break;
-            }
-        }
-        return true;
-    };
-    Process.parseDisabled = function (type, actualValue, value) {
-        switch (type) {
-            case "unchecked": {
-                if (actualValue == true)
-                    return true;
-                break;
-            }
-            case "filled": {
-                if (value) {
-                    if (actualValue.length == 0)
-                        return true;
-                }
-                else {
-                    if (actualValue.length != 0)
-                        return true;
-                }
-                break;
-            }
-            case "empty": {
-                if (value && actualValue.length == 0)
-                    return true;
-                if (!value && actualValue.length == 0)
-                    return true;
-                break;
-            }
-            case "value": {
-                if (value != actualValue)
-                    return true;
-                break;
-            }
-            case "!value": {
-                if (value == actualValue)
-                    return true;
-                break;
-            }
-        }
-        return false;
-    };
-    return Process;
-}());
-
-//# sourceMappingURL=conditions.js.map
-
-/***/ }),
-
-/***/ 453:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarProvider; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__calendarEvent_Model__ = __webpack_require__(451);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_calendar__ = __webpack_require__(185);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__calendarEvent_Model__ = __webpack_require__(452);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_calendar__ = __webpack_require__(183);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__calendarUserCalendar_Model__ = __webpack_require__(626);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__calendarUserCalendar_Model__ = __webpack_require__(613);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_moment__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_moment__);
@@ -4165,6 +3911,259 @@ var CalendarProvider = /** @class */ (function () {
 
 /***/ }),
 
+/***/ 452:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarEvent; });
+var CalendarEvent = /** @class */ (function () {
+    function CalendarEvent(start, end, title, location, notes, allday, message, calendarType, id, typeOfMeeting, attending, participants, practitioner) {
+        if (start === void 0) { start = new Date(); }
+        if (end === void 0) { end = new Date(); }
+        if (title === void 0) { title = ""; }
+        if (location === void 0) { location = ""; }
+        if (notes === void 0) { notes = ""; }
+        if (allday === void 0) { allday = false; }
+        if (message === void 0) { message = ""; }
+        if (calendarType === void 0) { calendarType = CalendarEvent.CLINET_CALENDAR_TYPE; }
+        if (id === void 0) { id = -1; }
+        if (typeOfMeeting === void 0) { typeOfMeeting = CalendarEvent.TYPE1_EVENT_TYPE; }
+        if (attending === void 0) { attending = false; }
+        if (participants === void 0) { participants = ""; }
+        if (practitioner === void 0) { practitioner = ""; }
+        this.title = title;
+        this.location = location;
+        this.notes = notes;
+        this.startTime = start;
+        this.endTime = end;
+        this.allday = allday;
+        this.message = message;
+        this.id = id;
+        this.calendarType = calendarType;
+        this.typeOfMeeting = typeOfMeeting;
+        this.attending = attending;
+        this.participants = participants;
+        this.practitioner = practitioner;
+    }
+    CalendarEvent.getEventTypeByNumber = function (type) {
+        if (type == CalendarEvent.TYPE1_EVENT_TYPE)
+            return CalendarEvent.TYPE1_EVENT_TYPE_TEXT;
+        if (type == CalendarEvent.TYPE2_EVENT_TYPE)
+            return CalendarEvent.TYPE2_EVENT_TYPE_TEXT;
+        if (type == CalendarEvent.GLOBAL_EVENT_TYPE)
+            return CalendarEvent.GLOBAL_EVENT_TYPE_TEXT;
+    };
+    CalendarEvent.prototype.getHTMLClassName = function () {
+        //console.log("Cal event, HTML class: ", event);
+        if (this.typeOfMeeting == CalendarEvent.TYPE2_EVENT_TYPE) {
+            return "CustomColorType2";
+        }
+        else {
+            return "CustomColorUnknownType";
+        }
+    };
+    CalendarEvent.CUSTOM_TEXT_FOR_APPLICATION = "--- Created by CLINET application.";
+    CalendarEvent.CLINET_CALENDAR_TYPE = "CLINET";
+    CalendarEvent.GLOBAL_CALENDAR_TYPE = "Global";
+    CalendarEvent.EXTERNAL_CALENDAR_TYPE = "External";
+    CalendarEvent.TYPE1_EVENT_TYPE = 1;
+    CalendarEvent.TYPE2_EVENT_TYPE = 2;
+    CalendarEvent.GLOBAL_EVENT_TYPE = 3;
+    CalendarEvent.TYPE1_EVENT_TYPE_TEXT = "Type1 event";
+    CalendarEvent.TYPE2_EVENT_TYPE_TEXT = "Type2 event";
+    CalendarEvent.GLOBAL_EVENT_TYPE_TEXT = "Global event";
+    CalendarEvent.ALL_EVENT_TYPES = [CalendarEvent.TYPE1_EVENT_TYPE, CalendarEvent.TYPE2_EVENT_TYPE, CalendarEvent.GLOBAL_EVENT_TYPE];
+    return CalendarEvent;
+}());
+
+//# sourceMappingURL=calendarEvent.Model.js.map
+
+/***/ }),
+
+/***/ 453:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Process; });
+var Process = /** @class */ (function () {
+    function Process() {
+    }
+    Process.rulesFullFilled = function (condition, item, currentValues) {
+        //         if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
+        // //          console.info(item.rules);
+        //         }
+        for (var i = 0; i < item.rules.length; i++) {
+            var current = item.rules[i];
+            if (current.effect != condition)
+                continue;
+            var conditions = current.conditions;
+            for (var c = 0; c < conditions.length; c++) {
+                var currentCondition = conditions[c];
+                var nameSearched = currentCondition.name;
+                var type = currentCondition.type;
+                var value = currentCondition.value;
+                // if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
+                //     // console.info(currentCondition);
+                //     // console.info(currentValues);
+                // }
+                var actualValue = null;
+                for (var w = 0; w < currentValues.length; w++) {
+                    if (currentValues[w].key == nameSearched) {
+                        if (currentCondition.fromArray) {
+                            actualValue = currentValues[w].value[currentCondition.arrId - 1].ref;
+                        }
+                        else {
+                            actualValue = currentValues[w].value;
+                        }
+                        break;
+                    }
+                }
+                if (actualValue == null) {
+                    switch (condition) {
+                        case "visible": {
+                            return conditions.length == 0;
+                        }
+                        case "disabled": {
+                            return false;
+                        }
+                    }
+                }
+                switch (condition) {
+                    case "visible": {
+                        return Process.parseVisible(type, actualValue, value);
+                    }
+                    case "disabled": {
+                        return Process.parseDisabled(type, actualValue, value);
+                    }
+                }
+            }
+        }
+        switch (condition) {
+            case "visible": {
+                return true;
+            }
+            case "disabled": {
+                return false;
+            }
+            case "required": {
+                return Process.parseRequired(item);
+            }
+        }
+    };
+    /*
+      Returns if the specified Node item or its children have any unfulfilled required Rule.
+      Returns true if any required rule is unfulfilled, false otherwise.
+     */
+    Process.parseRequired = function (item) {
+        if (item.children.length == 0) {
+            for (var _i = 0, _a = item.rules; _i < _a.length; _i++) {
+                var rule = _a[_i];
+                if (rule.effect == "required") {
+                    return !(item.reflector != null && item.reflector != "");
+                }
+            }
+            return false;
+        }
+        else {
+            var required = false;
+            for (var _b = 0, _c = item.rules; _b < _c.length; _b++) {
+                var rule = _c[_b];
+                if (rule.effect == "required") {
+                    required = !(item.reflector != null && item.reflector != "");
+                }
+            }
+            for (var _d = 0, _e = item.children; _d < _e.length; _d++) {
+                var childNode = _e[_d];
+                if (required)
+                    break;
+                required = Process.parseRequired(childNode);
+            }
+            return required;
+        }
+    };
+    Process.parseVisible = function (type, actualValue, value) {
+        switch (type) {
+            case "unchecked": {
+                if (actualValue == true)
+                    return false;
+                break;
+            }
+            case "filled": {
+                if (value) {
+                    if (actualValue.length == 0 || actualValue == false)
+                        return false;
+                }
+                else {
+                    if (actualValue.length != 0 || actualValue == true)
+                        return false;
+                }
+                break;
+            }
+            case "empty": {
+                if (value && actualValue.length != 0)
+                    return false;
+                if (!value && actualValue.length == 0)
+                    return false;
+                break;
+            }
+            case "value": {
+                if (value != actualValue)
+                    return false;
+                break;
+            }
+            case "!value": {
+                if (value == actualValue)
+                    return false;
+                break;
+            }
+        }
+        return true;
+    };
+    Process.parseDisabled = function (type, actualValue, value) {
+        switch (type) {
+            case "unchecked": {
+                if (actualValue == true)
+                    return true;
+                break;
+            }
+            case "filled": {
+                if (value) {
+                    if (actualValue.length == 0)
+                        return true;
+                }
+                else {
+                    if (actualValue.length != 0)
+                        return true;
+                }
+                break;
+            }
+            case "empty": {
+                if (value && actualValue.length == 0)
+                    return true;
+                if (!value && actualValue.length == 0)
+                    return true;
+                break;
+            }
+            case "value": {
+                if (value != actualValue)
+                    return true;
+                break;
+            }
+            case "!value": {
+                if (value == actualValue)
+                    return true;
+                break;
+            }
+        }
+        return false;
+    };
+    return Process;
+}());
+
+//# sourceMappingURL=conditions.js.map
+
+/***/ }),
+
 /***/ 456:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4340,7 +4339,7 @@ var ModalContentPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 461:
+/***/ 462:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4378,7 +4377,7 @@ var NutzungsbedingungenModalPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 462:
+/***/ 463:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4416,7 +4415,7 @@ var DatenschutzerklaerungModalPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 463:
+/***/ 464:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4479,7 +4478,7 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_statics__ = __webpack_require__(102);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__storage_manager_storage_manager__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__ = __webpack_require__(608);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__ = __webpack_require__(616);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -5433,7 +5432,7 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_auth_manager_auth_manager__ = __webpack_require__(55);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_gui_manager_gui_manager__ = __webpack_require__(40);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_storage_manager_storage_manager__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_storage__ = __webpack_require__(183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_storage__ = __webpack_require__(184);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_checkin_service_checkin_service__ = __webpack_require__(110);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_touch_manager_touch_manager__ = __webpack_require__(450);
@@ -5446,19 +5445,19 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ionic_native_file_opener__ = __webpack_require__(399);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__pages_food_card_modal_box_page__ = __webpack_require__(460);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22_ionic2_calendar__ = __webpack_require__(455);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_geolocation__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_geolocation__ = __webpack_require__(461);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__ionic_native_in_app_browser__ = __webpack_require__(465);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__providers_draw_draw__ = __webpack_require__(180);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__providers_messages_messages__ = __webpack_require__(181);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__providers_debugger_debugger__ = __webpack_require__(456);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_calendar__ = __webpack_require__(185);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__providers_calendar_calendarProvider__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_calendar__ = __webpack_require__(183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__providers_calendar_calendarProvider__ = __webpack_require__(451);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__ionic_native_file_chooser__ = __webpack_require__(457);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__ionic_native_file_path__ = __webpack_require__(459);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__ionic_native_file_picker__ = __webpack_require__(458);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__ionic_native_background_fetch__ = __webpack_require__(400);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__ionic_native_phonegap_local_notification__ = __webpack_require__(401);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__ionic_native_firebase__ = __webpack_require__(184);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__ionic_native_firebase__ = __webpack_require__(185);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__providers_platform_manager_platform_manager__ = __webpack_require__(54);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__providers_link_manager_link_manager__ = __webpack_require__(78);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__providers_activity_tracker_activity_tracker__ = __webpack_require__(186);
@@ -5468,9 +5467,9 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__environments_environment__ = __webpack_require__(665);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__angular_http__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__pages_simple_text_modal_simple_text_modal__ = __webpack_require__(666);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__pages_Nutzungsbedingungen_nutzungsbedingungen_modal__ = __webpack_require__(461);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__pages_Datenschutzerklarung_datenschutzerklaerung_modal__ = __webpack_require__(462);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__pages_help_help_modal__ = __webpack_require__(463);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__pages_Nutzungsbedingungen_nutzungsbedingungen_modal__ = __webpack_require__(462);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__pages_Datenschutzerklarung_datenschutzerklaerung_modal__ = __webpack_require__(463);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__pages_help_help_modal__ = __webpack_require__(464);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -5548,41 +5547,41 @@ var AppModule = /** @class */ (function () {
                     autoFocusAssist: false,
                 }, {
                     links: [
-                        { loadChildren: '../pages/calendar.module/event-modal/event-modal.module#EventModalPageModule', name: 'EventModalPage', segment: 'event-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/calendar.module/calendar/calendar.module#CalendarPageModule', name: 'CalendarPage', segment: 'calendar', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/calendar.module/event-modal/event-modal.module#EventModalPageModule', name: 'EventModalPage', segment: 'event-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/checkin-for-doctors/checkin-for-doctors.module#CheckinForDoctorsPageModule', name: 'CheckinForDoctorsPage', segment: 'checkin-for-doctors', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/debugger/debugger.module#DebuggerPageModule', name: 'DebuggerPage', segment: 'debugger', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/document/document.module#DocumentPageModule', name: 'DocumentPage', segment: 'document', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/debugger/debugger.module#DebuggerPageModule', name: 'DebuggerPage', segment: 'debugger', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/draw/draw.module#DrawPageModule', name: 'DrawPage', segment: 'draw', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/checkin/checkin.module#CheckinPageModule', name: 'CheckinPage', segment: 'checkin', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/email-confirmation/email-confirmation.module#EmailConfirmationPageModule', name: 'EmailConfirmation', segment: 'email-confirmation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/file-upload/file-upload.module#FileUploadPageModule', name: 'FileUploadPage', segment: 'file-upload', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/checkin/checkin.module#CheckinPageModule', name: 'CheckinPage', segment: 'checkin', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/imprint/imprint.module#ImprintPageModule', name: 'ImprintPage', segment: 'imprint', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/info-item/info-item.module#InfoItemPageModule', name: 'InfoItemPage', segment: 'info-item', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/intro-slider/intro-slider.module#IntroSliderPageModule', name: 'IntroSliderPage', segment: 'intro-slider', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/food-card/food-card.module#FoodCardPageModule', name: 'FoodCardPage', segment: 'food-card', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/login/login.module#LoginPageModule', name: 'LoginPage', segment: 'login', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/info-item/info-item.module#InfoItemPageModule', name: 'InfoItemPage', segment: 'info-item', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/imprint/imprint.module#ImprintPageModule', name: 'ImprintPage', segment: 'imprint', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/intro-slider/intro-slider.module#IntroSliderPageModule', name: 'IntroSliderPage', segment: 'intro-slider', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/info-list/info-list.module#InfoListPageModule', name: 'InfoListPage', segment: 'info-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/map/map.module#MapPageModule', name: 'MapPage', segment: 'map', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/login/login.module#LoginPageModule', name: 'LoginPage', segment: 'login', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/message-center/message-center.module#MessageCenterPageModule', name: 'MessageCenterPage', segment: 'message-center', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/news-list/news-list.module#NewsListPageModule', name: 'NewsListPage', segment: 'news-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/news-item/news-item.module#NewsItemPageModule', name: 'NewsItemPage', segment: 'news-item', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/news/news.module#NewsPageModule', name: 'NewsPage', segment: 'news', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/news-list/news-list.module#NewsListPageModule', name: 'NewsListPage', segment: 'news-list', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/password-reset/password-reset.module#PasswordResetPageModule', name: 'PasswordResetPage', segment: 'password-reset', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/privacy/privacy.module#PrivacyPageModule', name: 'PrivacyPage', segment: 'privacy', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/start-text/start-text.module#StartTextPageModule', name: 'StartTextPage', segment: 'start-text', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/news/news.module#NewsPageModule', name: 'NewsPage', segment: 'news', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/password-reset/password-reset.module#PasswordResetPageModule', name: 'PasswordResetPage', segment: 'password-reset', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/therapy-entry/therapy-entry.module#TherapyEntryPageModule', name: 'TherapyEntryPage', segment: 'therapy-entry', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/text/text.module#TextPageModule', name: 'TextPage', segment: 'text', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/start-filter/start-filter.module#StartFilterPageModule', name: 'StartFilterPage', segment: 'start-filter', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/tos/tos.module#TosPageModule', name: 'TosPage', segment: 'tos', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings-change-password/user-settings-change-password.module#UserSettingsChangePasswordPageModule', name: 'UserSettingsChangePasswordPage', segment: 'user-settings-change-password', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/text/text.module#TextPageModule', name: 'TextPage', segment: 'text', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/therapy-entry/therapy-entry.module#TherapyEntryPageModule', name: 'TherapyEntryPage', segment: 'therapy-entry', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-account-information/user-settings-account-information.module#UserSettingsAccountInformationPageModule', name: 'UserSettingsAccountInformationPage', segment: 'user-settings-account-information', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-create-account/user-settings-create-account.module#UserSettingsCreateAccountPageModule', name: 'UserSettingsCreateAccountPage', segment: 'user-settings-create-account', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings-fingerprint-activation/user-settings-fingerprint-activation.module#UserSettingsFingerprintActivationPageModule', name: 'UserSettingsFingerprintActivationPage', segment: 'user-settings-fingerprint-activation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-message-center/user-settings-message-center.module#UserSettingsMessageCenterPageModule', name: 'UserSettingsMessageCenterPage', segment: 'user-settings-message-center', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/start-filter/start-filter.module#StartFilterPageModule', name: 'StartFilterPage', segment: 'start-filter', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/user-settings-change-password/user-settings-change-password.module#UserSettingsChangePasswordPageModule', name: 'UserSettingsChangePasswordPage', segment: 'user-settings-change-password', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/user-settings-fingerprint-activation/user-settings-fingerprint-activation.module#UserSettingsFingerprintActivationPageModule', name: 'UserSettingsFingerprintActivationPage', segment: 'user-settings-fingerprint-activation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-refill-keys/user-settings-refill-keys.module#UserSettingsRefillKeysPageModule', name: 'UserSettingsRefillKeysPage', segment: 'user-settings-refill-keys', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings/user-settings.module#UserSettingsPageModule', name: 'UserSettingsPage', segment: 'user-settings', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings-push-notification/user-settings-push-notification.module#UserSettingsPushNotificationPageModule', name: 'UserSettingsPushNotificationPage', segment: 'user-settings-push-notification', priority: 'low', defaultHistory: [] }
+                        { loadChildren: '../pages/user-settings-push-notification/user-settings-push-notification.module#UserSettingsPushNotificationPageModule', name: 'UserSettingsPushNotificationPage', segment: 'user-settings-push-notification', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/user-settings/user-settings.module#UserSettingsPageModule', name: 'UserSettingsPage', segment: 'user-settings', priority: 'low', defaultHistory: [] }
                     ]
                 }),
                 __WEBPACK_IMPORTED_MODULE_10__ionic_storage__["a" /* IonicStorageModule */].forRoot({
@@ -5940,7 +5939,27 @@ webpackContext.id = 605;
 
 /***/ }),
 
-/***/ 617:
+/***/ 613:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserCalendar; });
+var UserCalendar = /** @class */ (function () {
+    function UserCalendar(name, displayname, id, sync) {
+        if (sync === void 0) { sync = false; }
+        this.name = name;
+        this.displayname = displayname;
+        this.id = id;
+        this.sync = sync;
+    }
+    return UserCalendar;
+}());
+
+//# sourceMappingURL=calendarUserCalendar.Model.js.map
+
+/***/ }),
+
+/***/ 625:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5956,7 +5975,7 @@ var File = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 625:
+/***/ 626:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6624,26 +6643,6 @@ var WebForm = /** @class */ (function () {
 }());
 
 //# sourceMappingURL=form-modal.js.map
-
-/***/ }),
-
-/***/ 626:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserCalendar; });
-var UserCalendar = /** @class */ (function () {
-    function UserCalendar(name, displayname, id, sync) {
-        if (sync === void 0) { sync = false; }
-        this.name = name;
-        this.displayname = displayname;
-        this.id = id;
-        this.sync = sync;
-    }
-    return UserCalendar;
-}());
-
-//# sourceMappingURL=calendarUserCalendar.Model.js.map
 
 /***/ }),
 
