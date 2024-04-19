@@ -1,6 +1,6 @@
 webpackJsonp([4],{
 
-/***/ 678:
+/***/ 681:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "InfoListPageModule", function() { return InfoListPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__info_list__ = __webpack_require__(758);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__info_list__ = __webpack_require__(761);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -38,14 +38,14 @@ var InfoListPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 758:
+/***/ 761:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InfoListPage; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_info_info__ = __webpack_require__(759);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_info_info__ = __webpack_require__(762);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__home_home__ = __webpack_require__(108);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -95,7 +95,7 @@ var InfoListPage = /** @class */ (function () {
     };
     InfoListPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-info-list',template:/*ion-inline-start:"D:\ger\wzk\front\3 wzk few options3\3 wzk few options\clinic_app_frontend\src\pages\info-list\info-list.html"*/'<!--\n  Generated template for the InfoListPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title text-center>Infocenter</ion-title>\n    <ion-buttons end>\n      <button ion-button (click)="openHomePage()">\n        <img class="homeLogoNavBar" src="assets/home/icon.svg">\n      </button>\n    </ion-buttons>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <ion-grid *ngIf="!loaded">\n\n    <ion-row>\n      <ion-col col-5></ion-col>\n      <ion-col col-2>\n        <ion-spinner style="font-size: 40px" text-center></ion-spinner>\n      </ion-col>\n      <ion-col col-5></ion-col>\n    </ion-row>\n  </ion-grid>\n  <div style="">\n    <img src="assets/information/information.jpg" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">\n  </div>\n  <!-- <ion-card *ngFor="let post of posts" (click)="itemTapped(post)">\n		<img *ngIf="!!post.image" src="{{post.image}}"/>\n		<ion-card-content>\n			<h2 class="card-title">{{post.title}}</h2>\n			<p>{{post.brief | trimHtml | truncate : 140}}</p>\n		</ion-card-content>\n	</ion-card> -->\n  <ion-list>\n    <!-- <ion-item  > -->\n    <!-- <img *ngIf="!!post.image" src="{{post.image}}"/> -->\n    <!-- <ion-card-content> -->\n    <button *ngFor="let post of posts" ion-item  (click)="itemTapped(post)">{{post.title}}</button>\n    <!-- <p>{{post.brief | trimHtml | truncate : 140}}</p> -->\n    <!-- </ion-card-content> -->\n    <!-- </ion-item> -->\n  </ion-list>\n</ion-content>\n'/*ion-inline-end:"D:\ger\wzk\front\3 wzk few options3\3 wzk few options\clinic_app_frontend\src\pages\info-list\info-list.html"*/,
+            selector: 'page-info-list',template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\info-list\info-list.html"*/'<!--\n  Generated template for the InfoListPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title text-center>Infocenter</ion-title>\n    <ion-buttons end>\n      <button ion-button (click)="openHomePage()">\n        <img class="homeLogoNavBar" src="assets/home/icon.svg">\n      </button>\n    </ion-buttons>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n\n  <ion-grid *ngIf="!loaded">\n\n    <ion-row>\n      <ion-col col-5></ion-col>\n      <ion-col col-2>\n        <ion-spinner style="font-size: 40px" text-center></ion-spinner>\n      </ion-col>\n      <ion-col col-5></ion-col>\n    </ion-row>\n  </ion-grid>\n  <div style="">\n    <img src="assets/information/information.jpg" width="100%" height="auto" style="display: block; margin-left: auto; margin-right: auto;">\n  </div>\n  <!-- <ion-card *ngFor="let post of posts" (click)="itemTapped(post)">\n		<img *ngIf="!!post.image" src="{{post.image}}"/>\n		<ion-card-content>\n			<h2 class="card-title">{{post.title}}</h2>\n			<p>{{post.brief | trimHtml | truncate : 140}}</p>\n		</ion-card-content>\n	</ion-card> -->\n  <ion-list>\n    <!-- <ion-item  > -->\n    <!-- <img *ngIf="!!post.image" src="{{post.image}}"/> -->\n    <!-- <ion-card-content> -->\n    <button *ngFor="let post of posts" ion-item  (click)="itemTapped(post)">{{post.title}}</button>\n    <!-- <p>{{post.brief | trimHtml | truncate : 140}}</p> -->\n    <!-- </ion-card-content> -->\n    <!-- </ion-item> -->\n  </ion-list>\n</ion-content>\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\info-list\info-list.html"*/,
             providers: [__WEBPACK_IMPORTED_MODULE_2__providers_info_info__["a" /* InfoProvider */]]
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__providers_info_info__["a" /* InfoProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* NavController */]])
@@ -107,7 +107,7 @@ var InfoListPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 759:
+/***/ 762:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

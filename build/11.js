@@ -1,6 +1,6 @@
 webpackJsonp([11],{
 
-/***/ 694:
+/***/ 693:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "UserSettingsChangePasswordPageModule", function() { return UserSettingsChangePasswordPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__user_settings_change_password__ = __webpack_require__(805);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__user_settings_change_password__ = __webpack_require__(804);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -38,7 +38,7 @@ var UserSettingsChangePasswordPageModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 805:
+/***/ 804:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -109,7 +109,7 @@ var UserSettingsChangePasswordPage = /** @class */ (function () {
     };
     UserSettingsChangePasswordPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-user-settings-change-password',template:/*ion-inline-start:"D:\ger\wzk\front\3 wzk few options3\3 wzk few options\clinic_app_frontend\src\pages\user-settings-change-password\user-settings-change-password.html"*/'<!--\n  Generated template for the UserSettingsChangePasswordPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Passwort zurücksetzen</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n  <ion-card>\n    <ion-card-header>\n      <ion-card-title>\n        Passwort zurücksetzen\n      </ion-card-title>\n    </ion-card-header>\n    <ion-card-content>\n      <!--<ion-grid>\n        <ion-row>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Aktuelles Passwort</ion-label>\n              <ion-input [(ngModel)]="currentPass" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n        </ion-row>\n        <ion-row>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Neues Passwort angeben</ion-label>\n              <ion-input [(ngModel)]="newPass1" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Passwort wiederholen</ion-label>\n              <ion-input [(ngModel)]="newPass2" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n\n\n        </ion-row>\n      </ion-grid>-->\n      <ion-item>\n        <ion-label floating>Aktuelles Passwort</ion-label>\n        <ion-input [(ngModel)]="currentPass" type="password"></ion-input>\n      </ion-item>\n      <ion-item>\n        <ion-label floating>Neues Passwort angeben</ion-label>\n        <ion-input [(ngModel)]="newPass1" type="password"></ion-input>\n      </ion-item>\n      <ion-item>\n        <ion-label floating>Passwort wiederholen</ion-label>\n        <ion-input [(ngModel)]="newPass2" type="password"></ion-input>\n      </ion-item>\n      <button ion-button block default color="primary" (click)="resetPass()">Zurücksetzen</button>\n    </ion-card-content>\n  </ion-card>\n</ion-content>\n'/*ion-inline-end:"D:\ger\wzk\front\3 wzk few options3\3 wzk few options\clinic_app_frontend\src\pages\user-settings-change-password\user-settings-change-password.html"*/,
+            selector: 'page-user-settings-change-password',template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\user-settings-change-password\user-settings-change-password.html"*/'<!--\n  Generated template for the UserSettingsChangePasswordPage page.\n\n  See http://ionicframework.com/docs/components/#navigation for more info on\n  Ionic pages and navigation.\n-->\n<ion-header>\n\n  <ion-navbar>\n    <ion-title>Passwort zurücksetzen</ion-title>\n  </ion-navbar>\n\n</ion-header>\n\n\n<ion-content>\n  <ion-card>\n    <ion-card-header>\n      <ion-card-title>\n        Passwort zurücksetzen\n      </ion-card-title>\n    </ion-card-header>\n    <ion-card-content>\n      <!--<ion-grid>\n        <ion-row>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Aktuelles Passwort</ion-label>\n              <ion-input [(ngModel)]="currentPass" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n        </ion-row>\n        <ion-row>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Neues Passwort angeben</ion-label>\n              <ion-input [(ngModel)]="newPass1" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n          <ion-col>\n            <ion-item>\n              <ion-label floating>Passwort wiederholen</ion-label>\n              <ion-input [(ngModel)]="newPass2" type="password"></ion-input>\n            </ion-item>\n          </ion-col>\n\n\n        </ion-row>\n      </ion-grid>-->\n      <ion-item>\n        <ion-label floating>Aktuelles Passwort</ion-label>\n        <ion-input [(ngModel)]="currentPass" type="password"></ion-input>\n      </ion-item>\n      <ion-item>\n        <ion-label floating>Neues Passwort angeben</ion-label>\n        <ion-input [(ngModel)]="newPass1" type="password"></ion-input>\n      </ion-item>\n      <ion-item>\n        <ion-label floating>Passwort wiederholen</ion-label>\n        <ion-input [(ngModel)]="newPass2" type="password"></ion-input>\n      </ion-item>\n      <button ion-button block default color="primary" (click)="resetPass()">Zurücksetzen</button>\n    </ion-card-content>\n  </ion-card>\n</ion-content>\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\user-settings-change-password\user-settings-change-password.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_gui_manager_gui_manager__["a" /* GuiManagerProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_auth_manager_auth_manager__["a" /* AuthManagerProvider */], __WEBPACK_IMPORTED_MODULE_4__providers_api_api__["a" /* ApiProvider */]])
     ], UserSettingsChangePasswordPage);
