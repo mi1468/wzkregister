@@ -1,6 +1,6 @@
 webpackJsonp([0],{
 
-/***/ 687:
+/***/ 684:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "NewsListPageModule", function() { return NewsListPageModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__news_list__ = __webpack_require__(770);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__news_list__ = __webpack_require__(767);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -135,9 +135,9 @@ var NewsListPageModule = /** @class */ (function () {
           XMLProcessingInstruction = __webpack_require__(727);
           XMLDummy = __webpack_require__(736);
           NodeType = __webpack_require__(702);
-          XMLNodeList = __webpack_require__(778);
+          XMLNodeList = __webpack_require__(775);
           XMLNamedNodeMap = __webpack_require__(716);
-          DocumentPosition = __webpack_require__(779);
+          DocumentPosition = __webpack_require__(776);
         }
       }
 
@@ -3865,8 +3865,8 @@ SafeBuffer.allocUnsafeSlow = function (size) {
 
 
 
-var base64 = __webpack_require__(784)
-var ieee754 = __webpack_require__(785)
+var base64 = __webpack_require__(781)
+var ieee754 = __webpack_require__(782)
 var isArray = __webpack_require__(739)
 
 exports.Buffer = Buffer
@@ -5658,7 +5658,7 @@ exports.Readable = exports;
 exports.Writable = __webpack_require__(731);
 exports.Duplex = __webpack_require__(705);
 exports.Transform = __webpack_require__(744);
-exports.PassThrough = __webpack_require__(792);
+exports.PassThrough = __webpack_require__(789);
 
 
 /***/ }),
@@ -5739,7 +5739,7 @@ util.inherits = __webpack_require__(706);
 
 /*<replacement>*/
 var internalUtil = {
-  deprecate: __webpack_require__(791)
+  deprecate: __webpack_require__(788)
 };
 /*</replacement>*/
 
@@ -6732,7 +6732,7 @@ function simpleEnd(buf) {
 
   XMLDOMImplementation = __webpack_require__(733);
 
-  XMLDOMConfiguration = __webpack_require__(775);
+  XMLDOMConfiguration = __webpack_require__(772);
 
   XMLNode = __webpack_require__(703);
 
@@ -8070,7 +8070,7 @@ util.inherits = __webpack_require__(706);
 /*</replacement>*/
 
 /*<replacement>*/
-var debugUtil = __webpack_require__(787);
+var debugUtil = __webpack_require__(784);
 var debug = void 0;
 if (debugUtil && debugUtil.debuglog) {
   debug = debugUtil.debuglog('stream');
@@ -8079,7 +8079,7 @@ if (debugUtil && debugUtil.debuglog) {
 }
 /*</replacement>*/
 
-var BufferList = __webpack_require__(788);
+var BufferList = __webpack_require__(785);
 var destroyImpl = __webpack_require__(742);
 var StringDecoder;
 
@@ -9177,7 +9177,7 @@ exports._unrefActive = exports.active = function(item) {
 };
 
 // setimmediate attaches itself to the global object
-__webpack_require__(790);
+__webpack_require__(787);
 // On some exotic environments, it's not clear which object `setimmediate` was
 // able to install onto.  Search each possibility in the same order as the
 // `setimmediate` library.
@@ -9454,14 +9454,14 @@ function done(stream, er, data) {
 
 /***/ }),
 
-/***/ 770:
+/***/ 767:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NewsListPage; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_news_news__ = __webpack_require__(771);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_news_news__ = __webpack_require__(768);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__home_home__ = __webpack_require__(108);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -9521,7 +9521,7 @@ var NewsListPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 771:
+/***/ 768:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9530,9 +9530,9 @@ var NewsListPage = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_xml2js__ = __webpack_require__(772);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_xml2js__ = __webpack_require__(769);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_xml2js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_xml2js__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__models_news_model__ = __webpack_require__(798);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__models_news_model__ = __webpack_require__(795);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__auth_manager_auth_manager__ = __webpack_require__(55);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__link_manager_link_manager__ = __webpack_require__(78);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -9611,7 +9611,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 772:
+/***/ 769:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 1.12.7
@@ -9623,9 +9623,9 @@ var NewsProvider = /** @class */ (function () {
 
   defaults = __webpack_require__(714);
 
-  builder = __webpack_require__(773);
+  builder = __webpack_require__(770);
 
-  parser = __webpack_require__(782);
+  parser = __webpack_require__(779);
 
   processors = __webpack_require__(745);
 
@@ -9657,7 +9657,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 773:
+/***/ 770:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 1.12.7
@@ -9666,7 +9666,7 @@ var NewsProvider = /** @class */ (function () {
   var builder, defaults, escapeCDATA, requiresCDATA, wrapCDATA,
     hasProp = {}.hasOwnProperty;
 
-  builder = __webpack_require__(774);
+  builder = __webpack_require__(771);
 
   defaults = __webpack_require__(714).defaults;
 
@@ -9791,7 +9791,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 774:
+/***/ 771:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 2.4.1
@@ -9804,11 +9804,11 @@ var NewsProvider = /** @class */ (function () {
 
   XMLDocument = __webpack_require__(734);
 
-  XMLDocumentCB = __webpack_require__(780);
+  XMLDocumentCB = __webpack_require__(777);
 
   XMLStringWriter = __webpack_require__(728);
 
-  XMLStreamWriter = __webpack_require__(781);
+  XMLStreamWriter = __webpack_require__(778);
 
   NodeType = __webpack_require__(702);
 
@@ -9918,16 +9918,16 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 775:
+/***/ 772:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 2.4.1
 (function() {
   var XMLDOMConfiguration, XMLDOMErrorHandler, XMLDOMStringList;
 
-  XMLDOMErrorHandler = __webpack_require__(776);
+  XMLDOMErrorHandler = __webpack_require__(773);
 
-  XMLDOMStringList = __webpack_require__(777);
+  XMLDOMStringList = __webpack_require__(774);
 
   // Implements the DOMConfiguration interface
   module.exports = XMLDOMConfiguration = (function() {
@@ -10005,7 +10005,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 776:
+/***/ 773:
 /***/ (function(module, exports) {
 
 // Generated by CoffeeScript 2.4.1
@@ -10032,7 +10032,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 777:
+/***/ 774:
 /***/ (function(module, exports) {
 
 // Generated by CoffeeScript 2.4.1
@@ -10083,7 +10083,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 778:
+/***/ 775:
 /***/ (function(module, exports) {
 
 // Generated by CoffeeScript 2.4.1
@@ -10135,7 +10135,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 779:
+/***/ 776:
 /***/ (function(module, exports) {
 
 // Generated by CoffeeScript 2.4.1
@@ -10154,7 +10154,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 780:
+/***/ 777:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 2.4.1
@@ -10811,7 +10811,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 781:
+/***/ 778:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 2.4.1
@@ -11027,7 +11027,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 782:
+/***/ 779:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Generated by CoffeeScript 1.12.7
@@ -11038,11 +11038,11 @@ var NewsProvider = /** @class */ (function () {
     extend = function(child, parent) { for (var key in parent) { if (hasProp.call(parent, key)) child[key] = parent[key]; } function ctor() { this.constructor = child; } ctor.prototype = parent.prototype; child.prototype = new ctor(); child.__super__ = parent.prototype; return child; },
     hasProp = {}.hasOwnProperty;
 
-  sax = __webpack_require__(783);
+  sax = __webpack_require__(780);
 
   events = __webpack_require__(710);
 
-  bom = __webpack_require__(797);
+  bom = __webpack_require__(794);
 
   processors = __webpack_require__(745);
 
@@ -11415,7 +11415,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 783:
+/***/ 780:
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(Buffer) {;(function (sax) { // wrapper for non-node envs
@@ -11579,7 +11579,7 @@ var NewsProvider = /** @class */ (function () {
 
   var Stream
   try {
-    Stream = __webpack_require__(786).Stream
+    Stream = __webpack_require__(783).Stream
   } catch (ex) {
     Stream = function () {}
   }
@@ -12986,7 +12986,7 @@ var NewsProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 784:
+/***/ 781:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13144,7 +13144,7 @@ function fromByteArray (uint8) {
 
 /***/ }),
 
-/***/ 785:
+/***/ 782:
 /***/ (function(module, exports) {
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
@@ -13236,7 +13236,7 @@ exports.write = function (buffer, value, offset, isLE, mLen, nBytes) {
 
 /***/ }),
 
-/***/ 786:
+/***/ 783:
 /***/ (function(module, exports, __webpack_require__) {
 
 // Copyright Joyent, Inc. and other Node contributors.
@@ -13267,10 +13267,10 @@ var inherits = __webpack_require__(706);
 
 inherits(Stream, EE);
 Stream.Readable = __webpack_require__(730);
-Stream.Writable = __webpack_require__(793);
-Stream.Duplex = __webpack_require__(794);
-Stream.Transform = __webpack_require__(795);
-Stream.PassThrough = __webpack_require__(796);
+Stream.Writable = __webpack_require__(790);
+Stream.Duplex = __webpack_require__(791);
+Stream.Transform = __webpack_require__(792);
+Stream.PassThrough = __webpack_require__(793);
 
 // Backwards-compat with node 0.4.x
 Stream.Stream = Stream;
@@ -13370,14 +13370,14 @@ Stream.prototype.pipe = function(dest, options) {
 
 /***/ }),
 
-/***/ 787:
+/***/ 784:
 /***/ (function(module, exports) {
 
 /* (ignored) */
 
 /***/ }),
 
-/***/ 788:
+/***/ 785:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13386,7 +13386,7 @@ Stream.prototype.pipe = function(dest, options) {
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 var Buffer = __webpack_require__(713).Buffer;
-var util = __webpack_require__(789);
+var util = __webpack_require__(786);
 
 function copyBuffer(src, target, offset) {
   src.copy(target, offset);
@@ -13462,14 +13462,14 @@ if (util && util.inspect && util.inspect.custom) {
 
 /***/ }),
 
-/***/ 789:
+/***/ 786:
 /***/ (function(module, exports) {
 
 /* (ignored) */
 
 /***/ }),
 
-/***/ 790:
+/***/ 787:
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(global, process) {(function (global, undefined) {
@@ -13663,7 +13663,7 @@ if (util && util.inspect && util.inspect.custom) {
 
 /***/ }),
 
-/***/ 791:
+/***/ 788:
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(global) {
@@ -13738,7 +13738,7 @@ function config (name) {
 
 /***/ }),
 
-/***/ 792:
+/***/ 789:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -13792,7 +13792,7 @@ PassThrough.prototype._transform = function (chunk, encoding, cb) {
 
 /***/ }),
 
-/***/ 793:
+/***/ 790:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(731);
@@ -13800,7 +13800,7 @@ module.exports = __webpack_require__(731);
 
 /***/ }),
 
-/***/ 794:
+/***/ 791:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(705);
@@ -13808,7 +13808,7 @@ module.exports = __webpack_require__(705);
 
 /***/ }),
 
-/***/ 795:
+/***/ 792:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(730).Transform
@@ -13816,7 +13816,7 @@ module.exports = __webpack_require__(730).Transform
 
 /***/ }),
 
-/***/ 796:
+/***/ 793:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(730).PassThrough
@@ -13824,7 +13824,7 @@ module.exports = __webpack_require__(730).PassThrough
 
 /***/ }),
 
-/***/ 797:
+/***/ 794:
 /***/ (function(module, exports) {
 
 // Generated by CoffeeScript 1.12.7
@@ -13843,7 +13843,7 @@ module.exports = __webpack_require__(730).PassThrough
 
 /***/ }),
 
-/***/ 798:
+/***/ 795:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
