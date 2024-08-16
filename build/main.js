@@ -300,7 +300,7 @@ var ElectronProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__link_manager_link_manager__ = __webpack_require__(78);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_moment__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_12_moment__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__pages_checkin_conditions__ = __webpack_require__(453);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__pages_checkin_conditions__ = __webpack_require__(452);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__draw_draw__ = __webpack_require__(180);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__form_manager_form_manager__ = __webpack_require__(402);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -1229,7 +1229,7 @@ var CheckinServiceProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__api_api__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__file_modal__ = __webpack_require__(625);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__file_modal__ = __webpack_require__(617);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__electron_electron__ = __webpack_require__(109);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__services_is_cordova_available__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__storage_manager_storage_manager__ = __webpack_require__(39);
@@ -1912,7 +1912,7 @@ var DrawProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_background_fetch__ = __webpack_require__(400);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_phonegap_local_notification__ = __webpack_require__(401);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__file_manager_file_manager__ = __webpack_require__(111);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_firebase__ = __webpack_require__(185);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__ionic_native_firebase__ = __webpack_require__(184);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__electron_electron__ = __webpack_require__(109);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__services_is_cordova_available__ = __webpack_require__(80);
@@ -2254,19 +2254,19 @@ webpackEmptyAsyncContext.id = 215;
 
 var map = {
 	"../pages/calendar.module/calendar/calendar.module": [
-		667,
+		669,
 		5
 	],
 	"../pages/calendar.module/event-modal/event-modal.module": [
-		668,
+		667,
 		34
 	],
 	"../pages/checkin-for-doctors/checkin-for-doctors.module": [
-		669,
+		670,
 		33
 	],
 	"../pages/checkin/checkin.module": [
-		673,
+		668,
 		32
 	],
 	"../pages/debugger/debugger.module": [
@@ -2274,11 +2274,11 @@ var map = {
 		31
 	],
 	"../pages/document/document.module": [
-		670,
+		672,
 		30
 	],
 	"../pages/draw/draw.module": [
-		672,
+		675,
 		29
 	],
 	"../pages/email-confirmation/email-confirmation.module": [
@@ -2286,19 +2286,19 @@ var map = {
 		28
 	],
 	"../pages/file-upload/file-upload.module": [
-		675,
+		673,
 		27
 	],
 	"../pages/food-card/food-card.module": [
-		676,
+		677,
 		26
 	],
 	"../pages/imprint/imprint.module": [
-		678,
+		676,
 		25
 	],
 	"../pages/info-item/info-item.module": [
-		677,
+		679,
 		24
 	],
 	"../pages/info-list/info-list.module": [
@@ -2306,15 +2306,15 @@ var map = {
 		4
 	],
 	"../pages/intro-slider/intro-slider.module": [
-		679,
+		678,
 		23
 	],
 	"../pages/login/login.module": [
-		682,
+		681,
 		22
 	],
 	"../pages/map/map.module": [
-		681,
+		682,
 		3
 	],
 	"../pages/message-center/message-center.module": [
@@ -2322,23 +2322,23 @@ var map = {
 		2
 	],
 	"../pages/news-item/news-item.module": [
-		684,
+		685,
 		21
 	],
 	"../pages/news-list/news-list.module": [
-		686,
+		687,
 		0
 	],
 	"../pages/news/news.module": [
-		685,
+		684,
 		20
 	],
 	"../pages/password-reset/password-reset.module": [
-		687,
+		688,
 		19
 	],
 	"../pages/privacy/privacy.module": [
-		688,
+		686,
 		18
 	],
 	"../pages/start-filter/start-filter.module": [
@@ -2350,7 +2350,7 @@ var map = {
 		16
 	],
 	"../pages/text/text.module": [
-		692,
+		691,
 		15
 	],
 	"../pages/therapy-entry/therapy-entry.module": [
@@ -2358,35 +2358,35 @@ var map = {
 		14
 	],
 	"../pages/tos/tos.module": [
-		691,
+		694,
 		13
 	],
 	"../pages/user-settings-account-information/user-settings-account-information.module": [
-		694,
+		692,
 		12
 	],
 	"../pages/user-settings-change-password/user-settings-change-password.module": [
-		697,
+		695,
 		11
 	],
 	"../pages/user-settings-create-account/user-settings-create-account.module": [
-		695,
+		696,
 		10
 	],
 	"../pages/user-settings-fingerprint-activation/user-settings-fingerprint-activation.module": [
-		698,
+		699,
 		9
 	],
 	"../pages/user-settings-message-center/user-settings-message-center.module": [
-		696,
+		697,
 		8
 	],
 	"../pages/user-settings-push-notification/user-settings-push-notification.module": [
-		700,
+		698,
 		7
 	],
 	"../pages/user-settings-refill-keys/user-settings-refill-keys.module": [
-		699,
+		700,
 		6
 	],
 	"../pages/user-settings/user-settings.module": [
@@ -2418,7 +2418,7 @@ module.exports = webpackAsyncContext;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_add_operator_map__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_storage__ = __webpack_require__(184);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_storage__ = __webpack_require__(183);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -2957,7 +2957,7 @@ var GuiManagerProvider = /** @class */ (function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormManagerProvider; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__form_modal__ = __webpack_require__(626);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__form_modal__ = __webpack_require__(625);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__storage_manager_storage_manager__ = __webpack_require__(39);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__api_api__ = __webpack_require__(48);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -3247,12 +3247,265 @@ var TouchManagerProvider = /** @class */ (function () {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarEvent; });
+var CalendarEvent = /** @class */ (function () {
+    function CalendarEvent(start, end, title, location, notes, allday, message, calendarType, id, typeOfMeeting, attending, participants, practitioner) {
+        if (start === void 0) { start = new Date(); }
+        if (end === void 0) { end = new Date(); }
+        if (title === void 0) { title = ""; }
+        if (location === void 0) { location = ""; }
+        if (notes === void 0) { notes = ""; }
+        if (allday === void 0) { allday = false; }
+        if (message === void 0) { message = ""; }
+        if (calendarType === void 0) { calendarType = CalendarEvent.CLINET_CALENDAR_TYPE; }
+        if (id === void 0) { id = -1; }
+        if (typeOfMeeting === void 0) { typeOfMeeting = CalendarEvent.TYPE1_EVENT_TYPE; }
+        if (attending === void 0) { attending = false; }
+        if (participants === void 0) { participants = ""; }
+        if (practitioner === void 0) { practitioner = ""; }
+        this.title = title;
+        this.location = location;
+        this.notes = notes;
+        this.startTime = start;
+        this.endTime = end;
+        this.allday = allday;
+        this.message = message;
+        this.id = id;
+        this.calendarType = calendarType;
+        this.typeOfMeeting = typeOfMeeting;
+        this.attending = attending;
+        this.participants = participants;
+        this.practitioner = practitioner;
+    }
+    CalendarEvent.getEventTypeByNumber = function (type) {
+        if (type == CalendarEvent.TYPE1_EVENT_TYPE)
+            return CalendarEvent.TYPE1_EVENT_TYPE_TEXT;
+        if (type == CalendarEvent.TYPE2_EVENT_TYPE)
+            return CalendarEvent.TYPE2_EVENT_TYPE_TEXT;
+        if (type == CalendarEvent.GLOBAL_EVENT_TYPE)
+            return CalendarEvent.GLOBAL_EVENT_TYPE_TEXT;
+    };
+    CalendarEvent.prototype.getHTMLClassName = function () {
+        //console.log("Cal event, HTML class: ", event);
+        if (this.typeOfMeeting == CalendarEvent.TYPE2_EVENT_TYPE) {
+            return "CustomColorType2";
+        }
+        else {
+            return "CustomColorUnknownType";
+        }
+    };
+    CalendarEvent.CUSTOM_TEXT_FOR_APPLICATION = "--- Created by CLINET application.";
+    CalendarEvent.CLINET_CALENDAR_TYPE = "CLINET";
+    CalendarEvent.GLOBAL_CALENDAR_TYPE = "Global";
+    CalendarEvent.EXTERNAL_CALENDAR_TYPE = "External";
+    CalendarEvent.TYPE1_EVENT_TYPE = 1;
+    CalendarEvent.TYPE2_EVENT_TYPE = 2;
+    CalendarEvent.GLOBAL_EVENT_TYPE = 3;
+    CalendarEvent.TYPE1_EVENT_TYPE_TEXT = "Type1 event";
+    CalendarEvent.TYPE2_EVENT_TYPE_TEXT = "Type2 event";
+    CalendarEvent.GLOBAL_EVENT_TYPE_TEXT = "Global event";
+    CalendarEvent.ALL_EVENT_TYPES = [CalendarEvent.TYPE1_EVENT_TYPE, CalendarEvent.TYPE2_EVENT_TYPE, CalendarEvent.GLOBAL_EVENT_TYPE];
+    return CalendarEvent;
+}());
+
+//# sourceMappingURL=calendarEvent.Model.js.map
+
+/***/ }),
+
+/***/ 452:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Process; });
+var Process = /** @class */ (function () {
+    function Process() {
+    }
+    Process.rulesFullFilled = function (condition, item, currentValues) {
+        //         if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
+        // //          console.info(item.rules);
+        //         }
+        for (var i = 0; i < item.rules.length; i++) {
+            var current = item.rules[i];
+            if (current.effect != condition)
+                continue;
+            var conditions = current.conditions;
+            for (var c = 0; c < conditions.length; c++) {
+                var currentCondition = conditions[c];
+                var nameSearched = currentCondition.name;
+                var type = currentCondition.type;
+                var value = currentCondition.value;
+                // if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
+                //     // console.info(currentCondition);
+                //     // console.info(currentValues);
+                // }
+                var actualValue = null;
+                for (var w = 0; w < currentValues.length; w++) {
+                    if (currentValues[w].key == nameSearched) {
+                        if (currentCondition.fromArray) {
+                            actualValue = currentValues[w].value[currentCondition.arrId - 1].ref;
+                        }
+                        else {
+                            actualValue = currentValues[w].value;
+                        }
+                        break;
+                    }
+                }
+                if (actualValue == null) {
+                    switch (condition) {
+                        case "visible": {
+                            return conditions.length == 0;
+                        }
+                        case "disabled": {
+                            return false;
+                        }
+                    }
+                }
+                switch (condition) {
+                    case "visible": {
+                        return Process.parseVisible(type, actualValue, value);
+                    }
+                    case "disabled": {
+                        return Process.parseDisabled(type, actualValue, value);
+                    }
+                }
+            }
+        }
+        switch (condition) {
+            case "visible": {
+                return true;
+            }
+            case "disabled": {
+                return false;
+            }
+            case "required": {
+                return Process.parseRequired(item);
+            }
+        }
+    };
+    /*
+      Returns if the specified Node item or its children have any unfulfilled required Rule.
+      Returns true if any required rule is unfulfilled, false otherwise.
+     */
+    Process.parseRequired = function (item) {
+        if (item.children.length == 0) {
+            for (var _i = 0, _a = item.rules; _i < _a.length; _i++) {
+                var rule = _a[_i];
+                if (rule.effect == "required") {
+                    return !(item.reflector != null && item.reflector != "");
+                }
+            }
+            return false;
+        }
+        else {
+            var required = false;
+            for (var _b = 0, _c = item.rules; _b < _c.length; _b++) {
+                var rule = _c[_b];
+                if (rule.effect == "required") {
+                    required = !(item.reflector != null && item.reflector != "");
+                }
+            }
+            for (var _d = 0, _e = item.children; _d < _e.length; _d++) {
+                var childNode = _e[_d];
+                if (required)
+                    break;
+                required = Process.parseRequired(childNode);
+            }
+            return required;
+        }
+    };
+    Process.parseVisible = function (type, actualValue, value) {
+        switch (type) {
+            case "unchecked": {
+                if (actualValue == true)
+                    return false;
+                break;
+            }
+            case "filled": {
+                if (value) {
+                    if (actualValue.length == 0 || actualValue == false)
+                        return false;
+                }
+                else {
+                    if (actualValue.length != 0 || actualValue == true)
+                        return false;
+                }
+                break;
+            }
+            case "empty": {
+                if (value && actualValue.length != 0)
+                    return false;
+                if (!value && actualValue.length == 0)
+                    return false;
+                break;
+            }
+            case "value": {
+                if (value != actualValue)
+                    return false;
+                break;
+            }
+            case "!value": {
+                if (value == actualValue)
+                    return false;
+                break;
+            }
+        }
+        return true;
+    };
+    Process.parseDisabled = function (type, actualValue, value) {
+        switch (type) {
+            case "unchecked": {
+                if (actualValue == true)
+                    return true;
+                break;
+            }
+            case "filled": {
+                if (value) {
+                    if (actualValue.length == 0)
+                        return true;
+                }
+                else {
+                    if (actualValue.length != 0)
+                        return true;
+                }
+                break;
+            }
+            case "empty": {
+                if (value && actualValue.length == 0)
+                    return true;
+                if (!value && actualValue.length == 0)
+                    return true;
+                break;
+            }
+            case "value": {
+                if (value != actualValue)
+                    return true;
+                break;
+            }
+            case "!value": {
+                if (value == actualValue)
+                    return true;
+                break;
+            }
+        }
+        return false;
+    };
+    return Process;
+}());
+
+//# sourceMappingURL=conditions.js.map
+
+/***/ }),
+
+/***/ 453:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarProvider; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__calendarEvent_Model__ = __webpack_require__(452);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_calendar__ = __webpack_require__(183);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__calendarEvent_Model__ = __webpack_require__(451);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_calendar__ = __webpack_require__(185);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(13);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__calendarUserCalendar_Model__ = __webpack_require__(613);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__calendarUserCalendar_Model__ = __webpack_require__(626);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_moment__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_moment___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_moment__);
@@ -3911,259 +4164,6 @@ var CalendarProvider = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 452:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CalendarEvent; });
-var CalendarEvent = /** @class */ (function () {
-    function CalendarEvent(start, end, title, location, notes, allday, message, calendarType, id, typeOfMeeting, attending, participants, practitioner) {
-        if (start === void 0) { start = new Date(); }
-        if (end === void 0) { end = new Date(); }
-        if (title === void 0) { title = ""; }
-        if (location === void 0) { location = ""; }
-        if (notes === void 0) { notes = ""; }
-        if (allday === void 0) { allday = false; }
-        if (message === void 0) { message = ""; }
-        if (calendarType === void 0) { calendarType = CalendarEvent.CLINET_CALENDAR_TYPE; }
-        if (id === void 0) { id = -1; }
-        if (typeOfMeeting === void 0) { typeOfMeeting = CalendarEvent.TYPE1_EVENT_TYPE; }
-        if (attending === void 0) { attending = false; }
-        if (participants === void 0) { participants = ""; }
-        if (practitioner === void 0) { practitioner = ""; }
-        this.title = title;
-        this.location = location;
-        this.notes = notes;
-        this.startTime = start;
-        this.endTime = end;
-        this.allday = allday;
-        this.message = message;
-        this.id = id;
-        this.calendarType = calendarType;
-        this.typeOfMeeting = typeOfMeeting;
-        this.attending = attending;
-        this.participants = participants;
-        this.practitioner = practitioner;
-    }
-    CalendarEvent.getEventTypeByNumber = function (type) {
-        if (type == CalendarEvent.TYPE1_EVENT_TYPE)
-            return CalendarEvent.TYPE1_EVENT_TYPE_TEXT;
-        if (type == CalendarEvent.TYPE2_EVENT_TYPE)
-            return CalendarEvent.TYPE2_EVENT_TYPE_TEXT;
-        if (type == CalendarEvent.GLOBAL_EVENT_TYPE)
-            return CalendarEvent.GLOBAL_EVENT_TYPE_TEXT;
-    };
-    CalendarEvent.prototype.getHTMLClassName = function () {
-        //console.log("Cal event, HTML class: ", event);
-        if (this.typeOfMeeting == CalendarEvent.TYPE2_EVENT_TYPE) {
-            return "CustomColorType2";
-        }
-        else {
-            return "CustomColorUnknownType";
-        }
-    };
-    CalendarEvent.CUSTOM_TEXT_FOR_APPLICATION = "--- Created by CLINET application.";
-    CalendarEvent.CLINET_CALENDAR_TYPE = "CLINET";
-    CalendarEvent.GLOBAL_CALENDAR_TYPE = "Global";
-    CalendarEvent.EXTERNAL_CALENDAR_TYPE = "External";
-    CalendarEvent.TYPE1_EVENT_TYPE = 1;
-    CalendarEvent.TYPE2_EVENT_TYPE = 2;
-    CalendarEvent.GLOBAL_EVENT_TYPE = 3;
-    CalendarEvent.TYPE1_EVENT_TYPE_TEXT = "Type1 event";
-    CalendarEvent.TYPE2_EVENT_TYPE_TEXT = "Type2 event";
-    CalendarEvent.GLOBAL_EVENT_TYPE_TEXT = "Global event";
-    CalendarEvent.ALL_EVENT_TYPES = [CalendarEvent.TYPE1_EVENT_TYPE, CalendarEvent.TYPE2_EVENT_TYPE, CalendarEvent.GLOBAL_EVENT_TYPE];
-    return CalendarEvent;
-}());
-
-//# sourceMappingURL=calendarEvent.Model.js.map
-
-/***/ }),
-
-/***/ 453:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Process; });
-var Process = /** @class */ (function () {
-    function Process() {
-    }
-    Process.rulesFullFilled = function (condition, item, currentValues) {
-        //         if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
-        // //          console.info(item.rules);
-        //         }
-        for (var i = 0; i < item.rules.length; i++) {
-            var current = item.rules[i];
-            if (current.effect != condition)
-                continue;
-            var conditions = current.conditions;
-            for (var c = 0; c < conditions.length; c++) {
-                var currentCondition = conditions[c];
-                var nameSearched = currentCondition.name;
-                var type = currentCondition.type;
-                var value = currentCondition.value;
-                // if (item.id.endsWith('wenn_ja_wie_lang_in_wochen_')) {
-                //     // console.info(currentCondition);
-                //     // console.info(currentValues);
-                // }
-                var actualValue = null;
-                for (var w = 0; w < currentValues.length; w++) {
-                    if (currentValues[w].key == nameSearched) {
-                        if (currentCondition.fromArray) {
-                            actualValue = currentValues[w].value[currentCondition.arrId - 1].ref;
-                        }
-                        else {
-                            actualValue = currentValues[w].value;
-                        }
-                        break;
-                    }
-                }
-                if (actualValue == null) {
-                    switch (condition) {
-                        case "visible": {
-                            return conditions.length == 0;
-                        }
-                        case "disabled": {
-                            return false;
-                        }
-                    }
-                }
-                switch (condition) {
-                    case "visible": {
-                        return Process.parseVisible(type, actualValue, value);
-                    }
-                    case "disabled": {
-                        return Process.parseDisabled(type, actualValue, value);
-                    }
-                }
-            }
-        }
-        switch (condition) {
-            case "visible": {
-                return true;
-            }
-            case "disabled": {
-                return false;
-            }
-            case "required": {
-                return Process.parseRequired(item);
-            }
-        }
-    };
-    /*
-      Returns if the specified Node item or its children have any unfulfilled required Rule.
-      Returns true if any required rule is unfulfilled, false otherwise.
-     */
-    Process.parseRequired = function (item) {
-        if (item.children.length == 0) {
-            for (var _i = 0, _a = item.rules; _i < _a.length; _i++) {
-                var rule = _a[_i];
-                if (rule.effect == "required") {
-                    return !(item.reflector != null && item.reflector != "");
-                }
-            }
-            return false;
-        }
-        else {
-            var required = false;
-            for (var _b = 0, _c = item.rules; _b < _c.length; _b++) {
-                var rule = _c[_b];
-                if (rule.effect == "required") {
-                    required = !(item.reflector != null && item.reflector != "");
-                }
-            }
-            for (var _d = 0, _e = item.children; _d < _e.length; _d++) {
-                var childNode = _e[_d];
-                if (required)
-                    break;
-                required = Process.parseRequired(childNode);
-            }
-            return required;
-        }
-    };
-    Process.parseVisible = function (type, actualValue, value) {
-        switch (type) {
-            case "unchecked": {
-                if (actualValue == true)
-                    return false;
-                break;
-            }
-            case "filled": {
-                if (value) {
-                    if (actualValue.length == 0 || actualValue == false)
-                        return false;
-                }
-                else {
-                    if (actualValue.length != 0 || actualValue == true)
-                        return false;
-                }
-                break;
-            }
-            case "empty": {
-                if (value && actualValue.length != 0)
-                    return false;
-                if (!value && actualValue.length == 0)
-                    return false;
-                break;
-            }
-            case "value": {
-                if (value != actualValue)
-                    return false;
-                break;
-            }
-            case "!value": {
-                if (value == actualValue)
-                    return false;
-                break;
-            }
-        }
-        return true;
-    };
-    Process.parseDisabled = function (type, actualValue, value) {
-        switch (type) {
-            case "unchecked": {
-                if (actualValue == true)
-                    return true;
-                break;
-            }
-            case "filled": {
-                if (value) {
-                    if (actualValue.length == 0)
-                        return true;
-                }
-                else {
-                    if (actualValue.length != 0)
-                        return true;
-                }
-                break;
-            }
-            case "empty": {
-                if (value && actualValue.length == 0)
-                    return true;
-                if (!value && actualValue.length == 0)
-                    return true;
-                break;
-            }
-            case "value": {
-                if (value != actualValue)
-                    return true;
-                break;
-            }
-            case "!value": {
-                if (value == actualValue)
-                    return true;
-                break;
-            }
-        }
-        return false;
-    };
-    return Process;
-}());
-
-//# sourceMappingURL=conditions.js.map
-
-/***/ }),
-
 /***/ 456:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4339,7 +4339,7 @@ var ModalContentPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 462:
+/***/ 461:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4366,7 +4366,7 @@ var NutzungsbedingungenModalPage = /** @class */ (function () {
     };
     NutzungsbedingungenModalPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: "nutzungsbedingungen-modal",template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Nutzungsbedingungen\nutzungsbedingungen-modal.html"*/'<ion-header>\n\n  <ion-toolbar>\n\n    <ion-title>Nutzungsbedingungen</ion-title>\n\n  </ion-toolbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n  <div style="margin: 1em">\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>Nutzungsbedingungen</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      der WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n      Patienten zu den Waldburg-Zeil Kliniken.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>1. Anbieter und Anwendungsbereich</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Anbieter der WZK Applikation und webseitenbasierten\n\n      Kommunikationsplattform für Patienten zu den Waldburg-Zeil Kliniken ist\n\n      die\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in">\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG&nbsp;<br />Zentrale&nbsp;<br />Riedstraße\n\n      16&nbsp;<br />88316 Isny-Neutrauchburg &nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      vertreten durch den Geschäftsführer:\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">Ellio Schneider</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Email: info@wz-kliniken.de\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Tel.: +49 (0) 7562 71-1135\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Nutzung der Kommunikationsplattformen richtet sich nach diesen\n\n      Nutzungsbedingungen in der jeweils vorliegenden Version. Abweichende\n\n      Vereinbarungen bedürfen der Schriftform.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>2. Umfang des Dienste-Angebotes</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n      Patienten zu den Waldburg-Zeil Kliniken (im folgenden insgesamt bezeichnet\n\n      als „WZK-App“) bietet Ihnen als Patienten der Waldburg-Zeil Kliniken (im\n\n      folgenden „WZ-Kliniken“) eine digitale Schnittstelle und\n\n      Kommunikationplattform zum Krankenhausinformationssystem (im folgenden\n\n      „KIS“) der WZ-Kliniken. Sie können sich der Mobile App (iOS und Android)\n\n      und/oder der webseitenbasierten Schnittstelle bedienen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Mit Ihrer Anmeldung bei der WZK-App können Sie den WZ-Kliniken\n\n      verschiedene Gesundheitsdaten und medizinische Unterlagen übermitteln. So\n\n      etwa Ihre Patientenstammdaten, Ihren Anamnesebogen oder einzelne\n\n      medizinische Befunde. Ferner können Sie Ihre Abrechnungen der WZ-Kliniken\n\n      einsehen. Zudem können Sie über die WZK-App auf verschiedene\n\n      Informationsangebote der WZ-Kliniken zugreifen, so etwa Speisepläne,\n\n      Wegepläne und allgemeine News.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App bietet Ihren behandelnden Ärzten bei den WZ-Kliniken eine\n\n      Kommunikationsplattform an, mit dem diese zu Behandlungszwecken in Ihre\n\n      jeweiligen Gesundheitsdaten, Befunde etc. Einsicht nehmen können und\n\n      wiederum für Sie die Behandlungspläne und -ergebnisse einstellen können.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App bietet Ihnen die Kontrolle über die von Ihnen bei den\n\n      WZ-Kliniken angelegten elektronischen Gesundheitsakte. Sie können\n\n      jederzeit die in dieser Gesundheitsakte eingestellten medizinischen Daten\n\n      sicher speichern, verwalten oder etwa zum Drucken oder externen speichern\n\n      exportieren.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Voraussetzung für die Nutzung dieser Angebote ist, dass Sie sich\n\n      erfolgreich als Nutzer registrieren und anmelden und die WZK-App Sie als\n\n      Patient der WZ-Kliniken identifiziert.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App selbst bietet keine eigenen medizinischen Leistungen,\n\n      Diagnosen oder Therapien an.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist jederzeit berechtigt, auf\n\n      dem Portal unentgeltlich bereitgestellte Dienste zu ändern, neue Dienste\n\n      unentgeltlich oder entgeltlich verfügbar zu machen und die Bereitstellung\n\n      unentgeltlicher Dienste einzustellen. Die Waldburg-Zeil Kliniken GmbH\n\n      &amp; Co. KG wird hierbei jeweils auf Ihre berechtigten Interessen\n\n      Rücksicht nehmen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>3. Nutzerregistrierung und -vertrag</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Ihre Anmeldung bei der WZK-App setzt voraus, dass Sie gegenwärtig Patient\n\n      der WZ-Kliniken sind oder bereits einen entsprechenden Behandlungsvertrag\n\n      abgeschlossen haben. Um die Angebote der WZK-App nutzen zu können, müssen\n\n      sich für sich einen nutzerspezifischen Account anlegen und sich hierfür\n\n      mit einen Nutzernamen und Passwort registrieren. Die in der Anmeldemaske\n\n      einzugebenden Daten müssen Sie vollständig und wahrheitsgemäß angeben. Bei\n\n      der Registrierung müssen Sie geschäftsfähig sein. Mit Ihrer Registrierung\n\n      kommt ein Nutzungsvertrag mit der Waldburg-Zeil Kliniken GmbH &amp; Co. KG\n\n      zustande, der sich nach diesen Nutzungsbedingungen richtet.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Während des Anmeldeprozesses bei den WZ-Kliniken wird für Sie ein\n\n      nutzerbezogener Zugangscode generiert, über welche Sie im KIS der\n\n      WZ-Kliniken zugeordnet werden. Bei der Registrierung und jeder späteren\n\n      Anmeldung in der WZK-App wird zur Sicherung vor Missbrauch ein spezielles\n\n      Authentifizierungsverfahren zum Matching des Nutzernamens/Passwort mit dem\n\n      Zugangscode angewendet. Sie willigen mit der Nutzung in die hierfür\n\n      erforderliche Erhebung Ihrer Daten zum Zweck der Authentifizierung\n\n      ein.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Nutzung der WZK-App ist für Sie kostenfrei.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Für die Inanspruchnahme der Leistungen der WZK-App besteht kein\n\n      Rechtsanspruch. Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist\n\n      berechtigt, eine Registrierung ohne Angaben von Gründen zu verweigern.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK Mobile App erhalten Sie über den Google Play Store und den Apple\n\n      App Store. Hierfür müssen Sie sich bei dem jeweiligen App Store\n\n      registrieren, die App downloaden und installieren. Auf die Erhebung,\n\n      Verarbeitung und Nutzung von personenbezogenen Daten auf Grund der\n\n      Registrierung und der Bereitstellung von Downloads aus den jeweiligen App\n\n      Stores hat die Waldburg-Zeil Kliniken GmbH &amp; Co. KG keinen Einfluss.\n\n      An dieser Stelle wird auf die jeweiligen Nutzungsbedingungen und\n\n      Datenschutzerklärungen des jeweiligen Appstores verwiesen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>4. Datenerhebung und -verwendung</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App, bzw. die Waldburg-Zeil Kliniken GmbH &amp; Co. KG, erhebt,\n\n      verarbeitet und verwendet die von Ihnen angegebenen Daten ausschließlich\n\n      für die Abwicklung des geschlossenen Nutzungsvertrages und nur soweit dies\n\n      für die Leistungserfüllung erforderlich und durch gesetzliche Vorschriften\n\n      erlaubt, oder vom Gesetzgeber angeordnet ist. Ohne Ihre vorherige\n\n      Einwilligung werden keine Daten erhoben, verarbeitet, genutzt oder\n\n      weitergegeben. Eine von Ihnen erteilte Einwilligung können Sie jederzeit\n\n      mit Wirkung für die Zukunft widerrufen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die bei Ihrer Registrierung von Ihnen eingegebenen persönlichen Daten\n\n      werden nur für die Authentifizierung und das Matching von\n\n      Nutzername/Passwort kurz zwischengespeichert. Sie werden danach an die\n\n      Server der WZ-Kliniken verschlüsselt übermittelt und werden dort für die\n\n      spätere Anmeldung gespeichert.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Wenn Sie medizinische Unterlagen, Gesundheitsdaten, Anamnesebogen, Befunde\n\n      oder ähnliches über die WZK-App an die WZ-Kliniken übermitteln wollen\n\n      („Patient-Klinik-Weg“) und sie zu diesem Zweck über die WZK-App hochladen,\n\n      so werden diese zum Zwecke der Aufbereitung in ein pdf-Dokument auf den\n\n      Servern der WZ-Kliniken zwischengespeichert und sodann verschlüsselt an\n\n      das KIS der WZ-Kliniken weitergeleitet. Das erzeugte pdf-Dokument bleibt\n\n      dort 14 Tage gespeichert und wird und danach automatisch und routinemäßig\n\n      gelöscht. Es ist danach nur noch im KIS der WZ-Kliniken gespeichert. Mit\n\n      der Übermittlung willigen Sie in diese Zwischenspeicherung ein.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Wenn Ihnen die WZ-Kliniken medizinische Unterlagen, Befunde aus Ihrer\n\n      dortigen Behandlung oder ähnliche über die WZK-App zur Einsichtnahme, zum\n\n      externen Speichern oder etwa zum Ausdrucken zur Verfügung stellen wollen\n\n      („Klinik-Patient-Weg“), werden die Dokumente zu keinem Zeitpunkt an Dritte\n\n      weitergegeben.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App ist daher eine reine Schnittstelle zur Herstellung der\n\n      Kommunikation zwischen Ihnen als Patient und den WZ-Kliniken. Die WZK-App\n\n      und die Waldburg-Zeil Kliniken GmbH &amp; Co. KG geben zu keinem Zeitpunkt\n\n      Ihre persönlichen und/oder medizinischen Daten an dritte Personen oder\n\n      Stellen weiter, außer den WZ-Kliniken und den sie dort behandelnden\n\n      Ärzten.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Datenübermittlung erfolgt jeweils verschlüsselt und entspricht den\n\n      aktuellen technischen Standards.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Weiter Informationen zur Nutzerdatenerhebung und -verarbeitung finden Sie\n\n      in der „Datenschutzerklärung“ der webbasierten Kommunikationsplattform und\n\n      der WZK Mobile App.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>5. Nutzungsrechte</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Ihnen steht, vorbehaltlich einer erfolgreichen Registrierung und eines\n\n      ungekündigten Vertragsverhältnisses, die Nutzung der WZK-App entsprechend\n\n      des unter 2. beschriebenen Angebotes zu. Es handelt sich um einfache,\n\n      zeitlich beschränkte Nutzungsrechte für private, persönliche und\n\n      nichtkommerzielle Zwecke.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die über die WZK-App veröffentlichten Inhalte, Datenbanken, Informationen,\n\n      Bilder und Videos sind grundsätzlich urheberrechtlich oder durch sonstige\n\n      Schutzrechte geschützt und in der Regel Eigentum oder lizenziert von der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG. Ohne ausdrückliche Zustimmung\n\n      der &nbsp;Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist jede Weitergabe von\n\n      Inhalten untersagt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Soweit die WZK-App auf Inhalte von Dritten verweist, verweisen wir auf\n\n      deren Urheber- und sonstige Schutzrechte.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>6. Nutzerpflichten</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie sind verpflichtet, Ihre Angaben, die für die Bereitstellung der\n\n      Leistungen benötigt werden, vollständig und wahrheitsgemäß anzugeben.\n\n      Sollten sich Ihre Stammdaten, wie Name, Adresse u.ä., ändern, haben Sie\n\n      diese selbstständig in der WZK-App zu aktualisieren.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie dürfen das Leistungsangebot der WZK-App nur sachgerecht nutzen. Die\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG weist darauf hin, dass Ihre\n\n      Nutzungsaktivitäten im gesetzlich zulässigen Umfang überwacht werden\n\n      können. Dies beinhaltet ggf. auch die Protokollierung von\n\n      IP-Verbindungsdaten sowie deren Auswertungen bei einem konkreten Verdacht\n\n      eines Verstoßes gegen die vorliegenden Teilnahme- und Nutzungsbedingungen\n\n      und/oder bei einem konkreten Verdacht auf das Vorliegen einer sonstigen\n\n      rechtswidrigen Handlung oder Straftat.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie sind verpflichtet, Ihren Benutzernamen und Ihr Passwort für den Zugang\n\n      geheim zu halten, nicht weiterzugeben und auch keine Kenntnisnahme durch\n\n      Dritte zu ermöglichen oder dulden. Bei einem Missbrauch oder Verlust der\n\n      Anmeldedaten oder entsprechendem Verdacht sind sie verpflichtet, dies der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG unverzüglich anzuzeigen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>7. Beendigung des Nutzungsverhältnisses</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie können Ihr Nutzungsverhältnis zur WZK-App jederzeit kündigen/beenden,\n\n      indem Sie Ihre Registrierung für die WZK-App aufheben. Hierzu müssen Sie\n\n      in der WZK-App im Bereich „mein Konto“ den Button „Profil Löschen“\n\n      anklicken.<i>&nbsp;</i>Das zugrunde liegende Vertragsverhältnis mit der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG endet damit automatisch.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Nach Beendigung Ihres Behandlungsverhältnisses mit den WZ-Kliniken stehen\n\n      bestimmte Nutzungen der WZK-App nicht mehr zur Verfügung. Nach einem Login\n\n      ist keine Verbindung zum KIS der WZK-Kliniken mehr möglich. Ihre\n\n      Profildaten und der Zugangscode bleiben aber für einen möglichen späteren\n\n      Aufenthalt bestehen. Zur weiteren Speicherung Ihrer medizinischen Daten,\n\n      Unterlagen etc. im KIS der WZ-Kliniken nach Beendigung des\n\n      Behandlungsverhältnisses wird auf die bestehenden Datenschutzbestimmungen\n\n      des KIS verwiesen.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG kann bei einem begründeten\n\n      Verdacht auf eine missbräuchliche Nutzung oder wesentliche\n\n      Vertragsverletzung Ihren Zugang zur WZK-App sperren. Sollte sich der\n\n      Verdacht bestätigen, steht der Waldburg-Zeil Kliniken GmbH &amp; Co. KG\n\n      ein außerordentliches Kündigungsrecht des Nutzungsvertrages zu.\n\n      Anderenfalls wird der Zugang wieder entsperrt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>8. Verfügbarkeit der Dienste der WZK-App</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Dienste der WZK-App stehen Ihnen in der Regel 24 Stunden am Tag zur\n\n      Verfügung. In Zeiten, zu denen Wartungsarbeiten am System oder Programm\n\n      bzw. den Datenbanken durchgeführt werden, kann der Zugang zu den Diensten\n\n      eingeschränkt sein. Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG bemüht\n\n      sich um eine möglichst unterbrechungsfreie Nutzbarkeit der Dienste. Jedoch\n\n      können durch technische Störungen (wie zB Unterbrechung der\n\n      Stromversorgung, Hardware- und Softwarefehler, technische Probleme in den\n\n      Datenleitungen) zeitweilige Beschränkungen oder Unterbrechungen auftreten.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>9. Haftung</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sollten Ihnen durch die Nutzung der unentgeltlich zur Verfügung gestellten\n\n      Dienste der WZK-App ein Schaden entstehen, so haftet die Waldburg-Zeil\n\n      Kliniken GmbH &amp; Co. KG nur, soweit Ihr Schaden aufgrund der\n\n      vertragsgemäßen Nutzung der unentgeltlichen Inhalte und/oder Dienste\n\n      entstanden ist, und nur bei Vorsatz und grober Fahrlässigkeit.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die vorstehende Haftungsbeschränkung gilt nicht im Falle von Arglist, im\n\n      Falle von Körper- bzw. Personenschäden, für die Verletzung von Garantien\n\n      sowie für Ansprüche aus Produkthaftung.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>10. Änderungen</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG behält sich vor, diese\n\n      Nutzungsbedingungen jederzeit mit Wirksamkeit auch innerhalb der\n\n      bestehenden Vertragsverhältnisse zu ändern. Über derartige Änderungen wird\n\n      die Waldburg-Zeil Kliniken GmbH &amp; Co. KG Sie mindestens zwei Wochen\n\n      vor dem geplanten Inkrafttreten der Änderungen in Kenntnis setzen. Sofern\n\n      Sie nicht innerhalb von zwei Wochen ab Zugang der Mitteilung widersprechen\n\n      und die Inanspruchnahme der Dienste auch nach Ablauf der Widerspruchsfrist\n\n      fortsetzen, so gelten die Änderungen ab Fristablauf als wirksam\n\n      vereinbart. Im Falle Ihres Widerspruchs ist die Waldburg-Zeil Kliniken\n\n      GmbH &amp; Co. KG berechtigt, das Vertragsverhältnis fristlos zu beenden,\n\n      ohne dass Ihnen hieraus Ansprüche gegen die Waldburg-Zeil Kliniken GmbH\n\n      &amp; Co. KG entstehen. Wird das Vertragsverhältnis nach dem wirksamen\n\n      Widerspruch des Nutzers fortgesetzt, behalten die bisherigen\n\n      Nutzungsbedingungen ihre Gültigkeit.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>11. Salvatorische Klausel</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sollte eine Bestimmung dieser Nutzungsbedingungen unwirksam sein oder\n\n      werden, so bleibt die Rechtswirksamkeit der übrigen Bestimmungen hiervon\n\n      unberührt. An Stelle der unwirksamen Bestimmung gilt eine wirksame\n\n      Bestimmung als vereinbart, die der von den Parteien gewollten\n\n      wirtschaftlich am nächsten kommt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      (Version 1.1, Stand: 10.04.2024)\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Nutzungsbedingungen\nutzungsbedingungen-modal.html"*/,
+            selector: "nutzungsbedingungen-modal",template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Nutzungsbedingungen\nutzungsbedingungen-modal.html"*/'<ion-header>\n\n  <ion-toolbar>\n\n    <ion-title>Nutzungsbedingungen</ion-title>\n\n    <ion-buttons slot="end">\n\n      <button (click)="close()" style="    position: absolute;      top: -24px;      right: 37px;      background: white;      color: #ffd512;      border: 2px solid #ffd512;      padding: 0 12px;      font-size: 2rem;      font-weight: 500;">\n\n        bestätigen\n\n        <!-- <ion-icon name="close"></ion-icon> -->\n\n      </button>\n\n    </ion-buttons>\n\n  </ion-toolbar>\n\n</ion-header>\n\n\n\n\n\n\n\n<ion-content>\n\n  <div style="margin: 1em">\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>Nutzungsbedingungen</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      der WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n      Patienten zu den Waldburg-Zeil Kliniken.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>1. Anbieter und Anwendungsbereich</strong> \n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Anbieter der WZK Applikation und webseitenbasierten\n\n      Kommunikationsplattform für Patienten zu den Waldburg-Zeil Kliniken ist\n\n      die\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in">\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG&nbsp;<br />Zentrale&nbsp;<br />Riedstraße\n\n      16&nbsp;<br />88316 Isny-Neutrauchburg &nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      vertreten durch den Geschäftsführer:\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">Ellio Schneider</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Email: info@wz-kliniken.de\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Tel.: +49 (0) 7562 71-1135\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Nutzung der Kommunikationsplattformen richtet sich nach diesen\n\n      Nutzungsbedingungen in der jeweils vorliegenden Version. Abweichende\n\n      Vereinbarungen bedürfen der Schriftform.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>2. Umfang des Dienste-Angebotes</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n      Patienten zu den Waldburg-Zeil Kliniken (im folgenden insgesamt bezeichnet\n\n      als „WZK-App“) bietet Ihnen als Patienten der Waldburg-Zeil Kliniken (im\n\n      folgenden „WZ-Kliniken“) eine digitale Schnittstelle und\n\n      Kommunikationplattform zum Krankenhausinformationssystem (im folgenden\n\n      „KIS“) der WZ-Kliniken. Sie können sich der Mobile App (iOS und Android)\n\n      und/oder der webseitenbasierten Schnittstelle bedienen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Mit Ihrer Anmeldung bei der WZK-App können Sie den WZ-Kliniken\n\n      verschiedene Gesundheitsdaten und medizinische Unterlagen übermitteln. So\n\n      etwa Ihre Patientenstammdaten, Ihren Anamnesebogen oder einzelne\n\n      medizinische Befunde. Ferner können Sie Ihre Abrechnungen der WZ-Kliniken\n\n      einsehen. Zudem können Sie über die WZK-App auf verschiedene\n\n      Informationsangebote der WZ-Kliniken zugreifen, so etwa Speisepläne,\n\n      Wegepläne und allgemeine News.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App bietet Ihren behandelnden Ärzten bei den WZ-Kliniken eine\n\n      Kommunikationsplattform an, mit dem diese zu Behandlungszwecken in Ihre\n\n      jeweiligen Gesundheitsdaten, Befunde etc. Einsicht nehmen können und\n\n      wiederum für Sie die Behandlungspläne und -ergebnisse einstellen können.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App bietet Ihnen die Kontrolle über die von Ihnen bei den\n\n      WZ-Kliniken angelegten elektronischen Gesundheitsakte. Sie können\n\n      jederzeit die in dieser Gesundheitsakte eingestellten medizinischen Daten\n\n      sicher speichern, verwalten oder etwa zum Drucken oder externen speichern\n\n      exportieren.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Voraussetzung für die Nutzung dieser Angebote ist, dass Sie sich\n\n      erfolgreich als Nutzer registrieren und anmelden und die WZK-App Sie als\n\n      Patient der WZ-Kliniken identifiziert.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App selbst bietet keine eigenen medizinischen Leistungen,\n\n      Diagnosen oder Therapien an.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist jederzeit berechtigt, auf\n\n      dem Portal unentgeltlich bereitgestellte Dienste zu ändern, neue Dienste\n\n      unentgeltlich oder entgeltlich verfügbar zu machen und die Bereitstellung\n\n      unentgeltlicher Dienste einzustellen. Die Waldburg-Zeil Kliniken GmbH\n\n      &amp; Co. KG wird hierbei jeweils auf Ihre berechtigten Interessen\n\n      Rücksicht nehmen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>3. Nutzerregistrierung und -vertrag</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Ihre Anmeldung bei der WZK-App setzt voraus, dass Sie gegenwärtig Patient\n\n      der WZ-Kliniken sind oder bereits einen entsprechenden Behandlungsvertrag\n\n      abgeschlossen haben. Um die Angebote der WZK-App nutzen zu können, müssen\n\n      sich für sich einen nutzerspezifischen Account anlegen und sich hierfür\n\n      mit einen Nutzernamen und Passwort registrieren. Die in der Anmeldemaske\n\n      einzugebenden Daten müssen Sie vollständig und wahrheitsgemäß angeben. Bei\n\n      der Registrierung müssen Sie geschäftsfähig sein. Mit Ihrer Registrierung\n\n      kommt ein Nutzungsvertrag mit der Waldburg-Zeil Kliniken GmbH &amp; Co. KG\n\n      zustande, der sich nach diesen Nutzungsbedingungen richtet.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Während des Anmeldeprozesses bei den WZ-Kliniken wird für Sie ein\n\n      nutzerbezogener Zugangscode generiert, über welche Sie im KIS der\n\n      WZ-Kliniken zugeordnet werden. Bei der Registrierung und jeder späteren\n\n      Anmeldung in der WZK-App wird zur Sicherung vor Missbrauch ein spezielles\n\n      Authentifizierungsverfahren zum Matching des Nutzernamens/Passwort mit dem\n\n      Zugangscode angewendet. Sie willigen mit der Nutzung in die hierfür\n\n      erforderliche Erhebung Ihrer Daten zum Zweck der Authentifizierung\n\n      ein.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Nutzung der WZK-App ist für Sie kostenfrei.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Für die Inanspruchnahme der Leistungen der WZK-App besteht kein\n\n      Rechtsanspruch. Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist\n\n      berechtigt, eine Registrierung ohne Angaben von Gründen zu verweigern.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK Mobile App erhalten Sie über den Google Play Store und den Apple\n\n      App Store. Hierfür müssen Sie sich bei dem jeweiligen App Store\n\n      registrieren, die App downloaden und installieren. Auf die Erhebung,\n\n      Verarbeitung und Nutzung von personenbezogenen Daten auf Grund der\n\n      Registrierung und der Bereitstellung von Downloads aus den jeweiligen App\n\n      Stores hat die Waldburg-Zeil Kliniken GmbH &amp; Co. KG keinen Einfluss.\n\n      An dieser Stelle wird auf die jeweiligen Nutzungsbedingungen und\n\n      Datenschutzerklärungen des jeweiligen Appstores verwiesen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>4. Datenerhebung und -verwendung</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App, bzw. die Waldburg-Zeil Kliniken GmbH &amp; Co. KG, erhebt,\n\n      verarbeitet und verwendet die von Ihnen angegebenen Daten ausschließlich\n\n      für die Abwicklung des geschlossenen Nutzungsvertrages und nur soweit dies\n\n      für die Leistungserfüllung erforderlich und durch gesetzliche Vorschriften\n\n      erlaubt, oder vom Gesetzgeber angeordnet ist. Ohne Ihre vorherige\n\n      Einwilligung werden keine Daten erhoben, verarbeitet, genutzt oder\n\n      weitergegeben. Eine von Ihnen erteilte Einwilligung können Sie jederzeit\n\n      mit Wirkung für die Zukunft widerrufen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die bei Ihrer Registrierung von Ihnen eingegebenen persönlichen Daten\n\n      werden nur für die Authentifizierung und das Matching von\n\n      Nutzername/Passwort kurz zwischengespeichert. Sie werden danach an die\n\n      Server der WZ-Kliniken verschlüsselt übermittelt und werden dort für die\n\n      spätere Anmeldung gespeichert.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Wenn Sie medizinische Unterlagen, Gesundheitsdaten, Anamnesebogen, Befunde\n\n      oder ähnliches über die WZK-App an die WZ-Kliniken übermitteln wollen\n\n      („Patient-Klinik-Weg“) und sie zu diesem Zweck über die WZK-App hochladen,\n\n      so werden diese zum Zwecke der Aufbereitung in ein pdf-Dokument auf den\n\n      Servern der WZ-Kliniken zwischengespeichert und sodann verschlüsselt an\n\n      das KIS der WZ-Kliniken weitergeleitet. Das erzeugte pdf-Dokument bleibt\n\n      dort 14 Tage gespeichert und wird und danach automatisch und routinemäßig\n\n      gelöscht. Es ist danach nur noch im KIS der WZ-Kliniken gespeichert. Mit\n\n      der Übermittlung willigen Sie in diese Zwischenspeicherung ein.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Wenn Ihnen die WZ-Kliniken medizinische Unterlagen, Befunde aus Ihrer\n\n      dortigen Behandlung oder ähnliche über die WZK-App zur Einsichtnahme, zum\n\n      externen Speichern oder etwa zum Ausdrucken zur Verfügung stellen wollen\n\n      („Klinik-Patient-Weg“), werden die Dokumente zu keinem Zeitpunkt an Dritte\n\n      weitergegeben.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die WZK-App ist daher eine reine Schnittstelle zur Herstellung der\n\n      Kommunikation zwischen Ihnen als Patient und den WZ-Kliniken. Die WZK-App\n\n      und die Waldburg-Zeil Kliniken GmbH &amp; Co. KG geben zu keinem Zeitpunkt\n\n      Ihre persönlichen und/oder medizinischen Daten an dritte Personen oder\n\n      Stellen weiter, außer den WZ-Kliniken und den sie dort behandelnden\n\n      Ärzten.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Datenübermittlung erfolgt jeweils verschlüsselt und entspricht den\n\n      aktuellen technischen Standards.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Weiter Informationen zur Nutzerdatenerhebung und -verarbeitung finden Sie\n\n      in der „Datenschutzerklärung“ der webbasierten Kommunikationsplattform und\n\n      der WZK Mobile App.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>5. Nutzungsrechte</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Ihnen steht, vorbehaltlich einer erfolgreichen Registrierung und eines\n\n      ungekündigten Vertragsverhältnisses, die Nutzung der WZK-App entsprechend\n\n      des unter 2. beschriebenen Angebotes zu. Es handelt sich um einfache,\n\n      zeitlich beschränkte Nutzungsrechte für private, persönliche und\n\n      nichtkommerzielle Zwecke.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die über die WZK-App veröffentlichten Inhalte, Datenbanken, Informationen,\n\n      Bilder und Videos sind grundsätzlich urheberrechtlich oder durch sonstige\n\n      Schutzrechte geschützt und in der Regel Eigentum oder lizenziert von der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG. Ohne ausdrückliche Zustimmung\n\n      der &nbsp;Waldburg-Zeil Kliniken GmbH &amp; Co. KG ist jede Weitergabe von\n\n      Inhalten untersagt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Soweit die WZK-App auf Inhalte von Dritten verweist, verweisen wir auf\n\n      deren Urheber- und sonstige Schutzrechte.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>6. Nutzerpflichten</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie sind verpflichtet, Ihre Angaben, die für die Bereitstellung der\n\n      Leistungen benötigt werden, vollständig und wahrheitsgemäß anzugeben.\n\n      Sollten sich Ihre Stammdaten, wie Name, Adresse u.ä., ändern, haben Sie\n\n      diese selbstständig in der WZK-App zu aktualisieren.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie dürfen das Leistungsangebot der WZK-App nur sachgerecht nutzen. Die\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG weist darauf hin, dass Ihre\n\n      Nutzungsaktivitäten im gesetzlich zulässigen Umfang überwacht werden\n\n      können. Dies beinhaltet ggf. auch die Protokollierung von\n\n      IP-Verbindungsdaten sowie deren Auswertungen bei einem konkreten Verdacht\n\n      eines Verstoßes gegen die vorliegenden Teilnahme- und Nutzungsbedingungen\n\n      und/oder bei einem konkreten Verdacht auf das Vorliegen einer sonstigen\n\n      rechtswidrigen Handlung oder Straftat.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie sind verpflichtet, Ihren Benutzernamen und Ihr Passwort für den Zugang\n\n      geheim zu halten, nicht weiterzugeben und auch keine Kenntnisnahme durch\n\n      Dritte zu ermöglichen oder dulden. Bei einem Missbrauch oder Verlust der\n\n      Anmeldedaten oder entsprechendem Verdacht sind sie verpflichtet, dies der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG unverzüglich anzuzeigen.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>7. Beendigung des Nutzungsverhältnisses</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sie können Ihr Nutzungsverhältnis zur WZK-App jederzeit kündigen/beenden,\n\n      indem Sie Ihre Registrierung für die WZK-App aufheben. Hierzu müssen Sie\n\n      in der WZK-App im Bereich „mein Konto“ den Button „Profil Löschen“\n\n      anklicken.<i>&nbsp;</i>Das zugrunde liegende Vertragsverhältnis mit der\n\n      Waldburg-Zeil Kliniken GmbH &amp; Co. KG endet damit automatisch.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Nach Beendigung Ihres Behandlungsverhältnisses mit den WZ-Kliniken stehen\n\n      bestimmte Nutzungen der WZK-App nicht mehr zur Verfügung. Nach einem Login\n\n      ist keine Verbindung zum KIS der WZK-Kliniken mehr möglich. Ihre\n\n      Profildaten und der Zugangscode bleiben aber für einen möglichen späteren\n\n      Aufenthalt bestehen. Zur weiteren Speicherung Ihrer medizinischen Daten,\n\n      Unterlagen etc. im KIS der WZ-Kliniken nach Beendigung des\n\n      Behandlungsverhältnisses wird auf die bestehenden Datenschutzbestimmungen\n\n      des KIS verwiesen.&nbsp;\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG kann bei einem begründeten\n\n      Verdacht auf eine missbräuchliche Nutzung oder wesentliche\n\n      Vertragsverletzung Ihren Zugang zur WZK-App sperren. Sollte sich der\n\n      Verdacht bestätigen, steht der Waldburg-Zeil Kliniken GmbH &amp; Co. KG\n\n      ein außerordentliches Kündigungsrecht des Nutzungsvertrages zu.\n\n      Anderenfalls wird der Zugang wieder entsperrt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>8. Verfügbarkeit der Dienste der WZK-App</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Dienste der WZK-App stehen Ihnen in der Regel 24 Stunden am Tag zur\n\n      Verfügung. In Zeiten, zu denen Wartungsarbeiten am System oder Programm\n\n      bzw. den Datenbanken durchgeführt werden, kann der Zugang zu den Diensten\n\n      eingeschränkt sein. Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG bemüht\n\n      sich um eine möglichst unterbrechungsfreie Nutzbarkeit der Dienste. Jedoch\n\n      können durch technische Störungen (wie zB Unterbrechung der\n\n      Stromversorgung, Hardware- und Softwarefehler, technische Probleme in den\n\n      Datenleitungen) zeitweilige Beschränkungen oder Unterbrechungen auftreten.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>9. Haftung</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sollten Ihnen durch die Nutzung der unentgeltlich zur Verfügung gestellten\n\n      Dienste der WZK-App ein Schaden entstehen, so haftet die Waldburg-Zeil\n\n      Kliniken GmbH &amp; Co. KG nur, soweit Ihr Schaden aufgrund der\n\n      vertragsgemäßen Nutzung der unentgeltlichen Inhalte und/oder Dienste\n\n      entstanden ist, und nur bei Vorsatz und grober Fahrlässigkeit.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die vorstehende Haftungsbeschränkung gilt nicht im Falle von Arglist, im\n\n      Falle von Körper- bzw. Personenschäden, für die Verletzung von Garantien\n\n      sowie für Ansprüche aus Produkthaftung.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>10. Änderungen</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Die Waldburg-Zeil Kliniken GmbH &amp; Co. KG behält sich vor, diese\n\n      Nutzungsbedingungen jederzeit mit Wirksamkeit auch innerhalb der\n\n      bestehenden Vertragsverhältnisse zu ändern. Über derartige Änderungen wird\n\n      die Waldburg-Zeil Kliniken GmbH &amp; Co. KG Sie mindestens zwei Wochen\n\n      vor dem geplanten Inkrafttreten der Änderungen in Kenntnis setzen. Sofern\n\n      Sie nicht innerhalb von zwei Wochen ab Zugang der Mitteilung widersprechen\n\n      und die Inanspruchnahme der Dienste auch nach Ablauf der Widerspruchsfrist\n\n      fortsetzen, so gelten die Änderungen ab Fristablauf als wirksam\n\n      vereinbart. Im Falle Ihres Widerspruchs ist die Waldburg-Zeil Kliniken\n\n      GmbH &amp; Co. KG berechtigt, das Vertragsverhältnis fristlos zu beenden,\n\n      ohne dass Ihnen hieraus Ansprüche gegen die Waldburg-Zeil Kliniken GmbH\n\n      &amp; Co. KG entstehen. Wird das Vertragsverhältnis nach dem wirksamen\n\n      Widerspruch des Nutzers fortgesetzt, behalten die bisherigen\n\n      Nutzungsbedingungen ihre Gültigkeit.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      <strong>11. Salvatorische Klausel</strong>\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      Sollte eine Bestimmung dieser Nutzungsbedingungen unwirksam sein oder\n\n      werden, so bleibt die Rechtswirksamkeit der übrigen Bestimmungen hiervon\n\n      unberührt. An Stelle der unwirksamen Bestimmung gilt eine wirksame\n\n      Bestimmung als vereinbart, die der von den Parteien gewollten\n\n      wirtschaftlich am nächsten kommt.\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n    <p style="margin-left: 0in; text-align: justify">\n\n      (Version 1.1, Stand: 10.04.2024)\n\n    </p>\n\n    <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Nutzungsbedingungen\nutzungsbedingungen-modal.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* ViewController */]])
     ], NutzungsbedingungenModalPage);
@@ -4377,7 +4377,7 @@ var NutzungsbedingungenModalPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 463:
+/***/ 462:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4404,7 +4404,7 @@ var DatenschutzerklaerungModalPage = /** @class */ (function () {
     };
     DatenschutzerklaerungModalPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: "datenschutzerklaerung-modal",template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Datenschutzerklarung\datenschutzerklaerung-modal.html"*/'<ion-header>\n\n  <ion-toolbar>\n\n    <ion-title>Datenschutzerklärung</ion-title>\n\n  </ion-toolbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n    <div style="margin:1em;">\n\n  <h2 style="margin-left: 0in"><strong>Datenschutzerklärung</strong></h2>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    zur WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n    Patienten zu den Waldburg-Zeil Kliniken.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir freuen uns über Ihr Interesse an der&nbsp;WZK Applikation und\n\n    webseitenbasierten Kommunikationsplattform für Patienten. Der Schutz Ihrer\n\n    persönlichen Daten ist uns ein wichtiges Anliegen. Mit dieser\n\n    Datenschutzerklärung möchten wir Sie über die Art, den Umfang und Zweck der\n\n    Erhebung und Verwendung personenbezogener Daten informieren.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>1. Verantwortlicher im Sinne des Datenschutzrechtes</strong>\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Zur Erbringung der nach Nr. 2. der Nutzungsbedingungen der WZK Applikation\n\n    beschriebenen Dienste, erhebt, verarbeitet und nutzt die\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Waldburg-Zeil Kliniken GmbH &amp; Co. KG&nbsp;<br />Zentrale&nbsp;<br />Riedstraße\n\n    16&nbsp;<br />88316 Isny-Neutrauchburg &nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    vertreten durch den Geschäftsführer:\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">Ellio Schneider</p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Email: info@wz-kliniken.de\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Tel.: +49 (0) 7562 71-1135\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    die von den Nutzern der WZK Applikation angegebenen oder freigegebenen\n\n    Daten, sowie die IP-Adresse dessen Endgerätes (nachfolgend „personenbezogene\n\n    Daten”).\n\n  </p>\n\n  <p style="margin-left: 0in"><strong>2. Datenschutzbeauftragter</strong></p>\n\n  <p style="margin-left: 0in">\n\n    Datenschutzbeauftragter der Waldburg-Zeil Kliniken ist:\n\n  </p>\n\n  <p style="margin-left: 0in">Claus Beham</p>\n\n  <p style="margin-left: 0in">Datenschutzbeauftragter@wz-kliniken.de</p>\n\n  <p style="margin-left: 0in">Tel.: +49 (0) 7562 71-1040</p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>3. Zweck der Erhebung, Verarbeitung und Nutzung</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Die personenbezogenen Daten erhebt, verarbeitet und nutzen die Waldburg-Zeil\n\n    Kliniken (im folgenden kurz WZK genannt) ausschließlich zu dem Zweck, die\n\n    mit dem Nutzer im Sinne der Nr. 2 der Nutzungsbedingungen vereinbarten\n\n    Dienste und Leistungen zu erbringen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Grundlage der Datenverarbeitung ist der mit Ihnen geschlossene\n\n    Nutzungsvertrag, der in Nr. 3 der Nutzungsbedingungen beschrieben ist.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sensible personenbezogene Daten (Gesundheitsdaten), die in der WZK App\n\n    hinterlegt werden, werden ausschließlich auf Servern in Deutschland\n\n    gespeichert und verarbeitet.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >4. Datenerhebung, Verarbeitung und Nutzung bei Aufruf der\n\n      webseitenbasierten Kommunikationsplattform</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Beim Aufruf der WZK-App über die entsprechende Website ist es technisch\n\n    notwendig, verschiedene Daten zu erheben, zu verarbeiten und zu nutzen,\n\n    damit eine fehlerfreie Kommunikation zwischen Ihrem Internetbrowser (z.B.\n\n    Internet Explorer, Mozilla Firefox etc.) und unserem Server stabil und\n\n    sicher möglich ist. Dabei werden automatisch folgende Daten erhoben und bis\n\n    zu ihrer automatisierten Löschung nach 30 Tagen in einer so genannten\n\n    Log-Datei protokolliert (funktionale Server-Logs):\n\n  </p>\n\n  <ul>\n\n    <li>IP-Adresse (Internet-Protokoll-Adresse, ungekürzt)</li>\n\n    <li>Datum und Uhrzeit der Anfrage</li>\n\n    <li>Zeitzonendifferenz zur GMT (GMT = Greenwich Mean Time)</li>\n\n    <li>URL der Seite</li>\n\n    <li>Zugriffsstatus / HTTP-Statuscode</li>\n\n    <li>Übertragene Datenmenge</li>\n\n    <li>\n\n      Referrer (das bezeichnet die Internetseite, von der ein zugreifendes\n\n      System auf unsere Internetseite gelangt)\n\n    </li>\n\n    <li>Browser (Typ und Version)</li>\n\n    <li>Betriebssystem des zugreifenden Rechners</li>\n\n  </ul>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir erheben diese Daten in anonymisierter Form, so dass die Daten keiner\n\n    bestimmten oder bestimmbaren Person zugeordnet werden können. Dies geschieht\n\n    zum Zwecke der systeminternen technischen Verarbeitung (Verbindungsaufbau),\n\n    der Systemsicherheit, der technischen Administration der System- und\n\n    Netzinfrastruktur sowie zur Optimierung des Internetangebotes und zu\n\n    statistischen Zwecken. Rechtsgrundlage für die Datenerhebung und\n\n    -verarbeitung ist unser berechtigtes Interesse gemäß Art. 6 Abs. 1 S. 1 lit.\n\n    f) DSGVO. Wir behalten uns jedoch vor, die Log-Datei nachträglich zu\n\n    überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht\n\n    einer rechtswidrigen Nutzung besteht.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >5. Datenerhebung, Verarbeitung und Nutzung bei Aufruf der mobilen\n\n      WZK-App</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Beim Aufruf der WZK-App über das entsprechende mobile Endgerät ist es\n\n    technisch notwendig, verschiedene Daten zu erheben, zu verarbeiten und zu\n\n    nutzen, damit eine fehlerfreie Kommunikation zwischen Ihrem mobilen Endgerät\n\n    und unserem Server stabil und sicher möglich ist. Dabei werden automatisch\n\n    folgende Daten erhoben und bis zu ihrer automatisierten Löschung nach 30\n\n    Tagen in einer so genannten Log-Datei protokolliert (funktionale\n\n    Server-Logs):\n\n  </p>\n\n  <ul>\n\n    <li>IP-Adresse (Internet-Protokoll-Adresse, ungekürzt)</li>\n\n    <li>Datum und Uhrzeit der Anfrage</li>\n\n    <li>Zeitzonendifferenz zur GMT (GMT = Greenwich Mean Time)</li>\n\n    <li>URL der Seite</li>\n\n    <li>Zugriffsstatus / HTTP-Statuscode</li>\n\n    <li>Übertragene Datenmenge</li>\n\n    <li>\n\n      Referrer (das bezeichnet die Internetseite, von der ein zugreifendes\n\n      System auf unsere Internetseite gelangt)\n\n    </li>\n\n    <li>Browser (Typ und Version)</li>\n\n    <li>Betriebssystem des zugreifenden Rechners</li>\n\n  </ul>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir erheben diese Daten in anonymisierter Form, so dass die Daten keiner\n\n    bestimmten oder bestimmbaren Person zugeordnet werden können. Dies geschieht\n\n    zum Zwecke der systeminternen technischen Verarbeitung (Verbindungsaufbau),\n\n    der Systemsicherheit, der technischen Administration der System- und\n\n    Netzinfrastruktur sowie zur Optimierung des Internetangebotes und zu\n\n    statistischen Zwecken. Rechtsgrundlage für die Datenerhebung und\n\n    -verarbeitung ist unser berechtigtes Interesse gemäß Art. 6 Abs. 1 S. 1 lit.\n\n    f) DSGVO. Wir behalten uns jedoch vor, die Log-Datei nachträglich zu\n\n    überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht\n\n    einer rechtswidrigen Nutzung besteht.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in"><strong>6. Einsatz von Cookies</strong></p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Cookies sind Textdateien, die auf Ihrem System gespeichert werden, um Sie\n\n    wieder zu erkennen, wenn Sie die WZK-App erneut aufrufen. Die verwendeten\n\n    Cookies enthalten eine anonymisierte Kennung. Wir nutzen Cookies\n\n    ausschließlich, um die Inhalte unseres Portals besser an die Nutzer anpassen\n\n    zu können.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn sie keine Cookies akzeptieren, können sie diese in Ihrem Browser oder\n\n    auf Ihrem mobilen Endgerät einschränken oder deaktivieren. Es kann dann\n\n    allerdings zu einer eingeschränkten Nutzbarkeit unserer Webinhalte kommen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    <strong>7. Web-Analyse</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Unsere WZK-App verwendet Funktionen des Webanalysedienste Google\n\n    Analytics.&nbsp;Betreibergesellschaft der Google-Analytics-Komponente ist\n\n    die Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Dazu werden Cookies verwendet, die eine Analyse der Benutzung der Website\n\n    durch Ihre Benutzer ermöglicht. Die dadurch erzeugten Informationen werden\n\n    auf den Server des Anbieters in die Vereinigten Staaten von Amerika\n\n    übertragen und dort gespeichert.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie können dies verhindern, indem Sie Ihren Browser oder Ihr mobiles\n\n    Endgerät so einrichten, dass keine Cookies gespeichert werden.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Ihre IP-Adresse wird erfasst, aber umgehend pseudonymisiert. Dadurch ist nur\n\n    eine grobe Lokalisierung möglich. Die Beziehung zum Webanalyseanbieter\n\n    basiert auf dem Abkommen EU-US Privacy Shield und erfüllt die\n\n    Datenschutzbestimmungen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des\n\n    Art. 6 Abs. 1 S. 1 lit. a) (Einwilligung) und/oder f) (berechtigtes\n\n    Interesse) der DSGVO.&nbsp;Weitere Informationen zu den Nutzungsbedingungen\n\n    und Datenschutzrichtlinien der Google Inc. finden Sie auf&nbsp;<a\n\n      href="http://www.google.com/analytics/terms/de.html"\n\n      >http://www.google.com/analytics/terms/de.html</a\n\n    >&nbsp;und unter&nbsp;<a href="https://www.google.de/intl/de/policies/"\n\n      >https://www.google.de/intl/de/policies/</a\n\n    >.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die\n\n    Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die\n\n    Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten\n\n    pseudonymisiert.&nbsp;Mit der Google-Analytics-Komponente werden die\n\n    Besucherströme auf unserer Internetseite analysiert. Google nutzt die\n\n    gewonnenen Daten und Informationen unter anderem dazu, die Nutzung unserer\n\n    Internetseite auszuwerten, um für uns Online-Reports, welche die Aktivitäten\n\n    auf unseren Internetseiten aufzeigen, zusammenzustellen, und um weitere mit\n\n    der Nutzung unserer Internetseite in Verbindung stehende Dienstleistungen zu\n\n    erbringen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    <strong>8. Social Plug-Ins</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Auf unserer WZK-App sind Plugins des sozialen Netzwerks Facebook, 1601 South\n\n    California Avenue, Palo Alto, CA 94304, USA integriert.&nbsp;Die\n\n    Facebook-Plugins erkennen&nbsp;Sie an dem Facebook-Logo oder dem\n\n    "Like-Button ("Gefällt mir") auf unserer Seite. Eine Übersicht über\n\n    die&nbsp;<a href="http://developers.facebook.com/docs/plugins/"\n\n      >Facebook-Plugins finden Sie hier</a\n\n    >. Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte\n\n    Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt.\n\n    Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse\n\n    unsere Seite besucht haben. Wenn Sie den Facebook "Like-Button" anklicken\n\n    während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die\n\n    Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann\n\n    Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen\n\n    darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der\n\n    übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere\n\n    Informationen hierzu finden Sie in&nbsp;der Datenschutzerklärung&nbsp;von\n\n    facebook unter&nbsp;<a href="http://de-de.facebook.com/policy.php"\n\n      >http://de-de.facebook.com/policy.php</a\n\n    >. Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des\n\n    Art. 6 Abs. 1 S. 1 lit. a) (Einwilligung) der DSGVO.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem\n\n    Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem\n\n    Facebook-Benutzerkonto aus.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >9. weitere Informationen zu einzelnen Datenverarbeitungsprozessen</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Im Folgenden informieren wir Sie über die Prozesse, bei denen die WZK-App\n\n    personenbezogenen Daten nutzt und verarbeitet. Wir kommen damit unseren\n\n    Informationspflichten gemäß Art. 13 &amp; 14 DSGVO nach.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>Eintragung für Newsletter</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Betroffene Personengruppen: Interessenten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: Identifikationsdaten,\n\n        Kommunikationsdaten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">Zweck: Erhalten eines Newsletters</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: &nbsp;Erteilung einer Einwilligung zur Verarbeitung\n\n        (Art. 6 Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich\n\n        für vorvertragliche Maßnahmen auf Anfrage der betroffenen Person (Art. 6\n\n        Abs. 1 S. 1 lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Der Interessent bekommt keinen\n\n        Newsletter zugesendet\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Empfänger: WZK-Mitarbeiter; wir nutzen für die Speicherung Ihrer\n\n        E-Mail-Adresse und zur Versendung der Newsletter den\n\n        Newsletterversender...... in Deutschland\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: E-Mail Adressen für Newsletter werden bis auf\n\n        Widerruf gespeichert.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    <strong>Registrierungsprozess in der WZK-App:</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Betroffene Personengruppen: Interessenten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: Identifikationsdaten (Nutzername,\n\n        Passwort, nutzerbezogener Zugangscode), Kommunikationsdaten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Zweck: Identifizierung der Nutzers zur Registrierung/Anmeldung in der\n\n        WZK-App&nbsp;\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: Erteilung einer Einwilligung zur Verarbeitung (Art. 6\n\n        Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich für\n\n        vorvertragliche Maßnahmen auf Anfrage der betroffenen Person (Art. 6\n\n        Abs. 1 S. 1 lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Die App, oder Teilbereiche der App\n\n        können nicht verwendet werden\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">Empfänger: WZK-Mitarbeiter</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: Soweit wir nicht rechtlich anders verpflichtet\n\n        sind, werden Ihre Account-Daten bis zur Löschung des WZK-Accounts sicher\n\n        gespeichert bei Ihrer Abmeldung innerhalb 1 Monats gelöscht.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">&nbsp;&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    <strong>Dokumentenmanagement in der WZK-App:</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">Betroffene Personengruppen: Nutzer</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: alle von Ihnen nach dem\n\n        Registrierungsprozess über die WZK-App auf dem "Patient-Klinik-Weg" an\n\n        uns übermittelte Daten (wie z.B. Anamnesebogen, medizinische Dokumente\n\n        etc.); alle von uns an Sie auf dem "Klinik-Patient-Weg" nach dem\n\n        Registrierungsprozess über die WZK-App übermittelte Daten (wie z.B.\n\n        Befunde, medizinische Unterlagen etc.).\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Zweck: Die Versendung, Speicherung und Verwaltung der medizinischen\n\n        Unterlagen ist wesentlicher Zweck der WZK-App.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: Erteilung einer Einwilligung zur Verarbeitung (Art. 6\n\n        Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich zur\n\n        Erfüllung eines Vertrages mit der betroffenen Person (Art. 6 Abs. 1 S. 1\n\n        lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Keine Möglichkeit das\n\n        Dokumentenmanagement der WZK-App zu nutzen bzw. eingeschränkte\n\n        Nutzbarkeit.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Empfänger: Gesundheitsdaten, die Sie an uns bereitstellen, werden\n\n        verschlüsselt verwaltet im Krankenhausinformationssystem der WZ-Kliniken\n\n        auf Servern in Deutschland. Zum Zwecke der Aufbereitung der von Ihnen\n\n        übermittelten Gesundheitsdaten in ein pdf-Dokument werden diese auf\n\n        Servern der Wz-Kliniken, in Deutschland zwischengespeichert und sodann\n\n        verschlüsselt an das KIS der WZ-Kliniken weitergeleitet. Empfänger der\n\n        von uns an Sie übermittelten medizinischen Unterlagen sind\n\n        ausschließlich Sie.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: Soweit wir nicht rechtlich anders verpflichtet\n\n        sind, werden die von Ihnen an uns übermittelten Daten bis zur Löschung\n\n        Ihres WZK-App-Accounts sicher gespeichert. Das bei der Übermittlung\n\n        erzeugte pdf-Dokument bleibt dort 14 Tage gespeichert und wird danach\n\n        automatisch und routinemäßig gelöscht. Es ist danach nur noch im KIS der\n\n        WZ-Kliniken gespeichert.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>10. Schutz der Privatsphäre</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    WZK verpflichtet sich, Ihre Privatsphäre zu schützen und versichert, die\n\n    personenbezogenen Daten im Einklang mit dem Bundesdatenschutzgesetz, der\n\n    Datenschutzgrundverordnung und dem Telemediengesetz zu erheben, zu\n\n    verarbeiten und zu nutzen und ausschließlich für die Erfüllung der unter Nr.\n\n    2 definierten Zwecke zu verarbeiten und zu nutzen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Diese webseitenbasierte Kommunikationsplattform nutzt aus Gründen der\n\n    Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie zum\n\n    Beispiel der Anfragen, die Sie an uns senden, eine SSL-Verschlüsselung. Eine\n\n    verschlüsselte Verbindung ist daran zu erkennen, dass die Adresszeile des\n\n    Browsers von "http://" auf "https://" wechselt und an dem Schloss-Symbol in\n\n    der Browserzeile.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an WZK\n\n    übermitteln, in der Regel nicht von Dritten mitgelesen werden.\n\n  </p>\n\n  <p style="margin-left: 0in"><strong>11. Einwilligung</strong></p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sofern Sie in die Bedingungen dieser Erklärung einwilligen, erklären Sie\n\n    sich mit der hier geregelten Nutzung Ihrer personenbezogenen Daten\n\n    einverstanden. Die Einwilligung oder ihre Verweigerung erfolgt durch Klicken\n\n    oder Nichtklicken auf das entsprechende Feld nach dem Hinweis auf diese\n\n    Bestimmungen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong>10. Auskunftsrecht und Datenberichtigung&nbsp;</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie haben einen gesetzlichen Anspruch auf jederzeitige, unentgeltliche\n\n    Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten. Ferner\n\n    steht Ihnen das Recht zu, unrichtige Daten berichtigen sowie Daten sperren\n\n    und löschen zu lassen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn Sie Auskunft über Ihre personenbezogenen Daten wünschen oder\n\n    weitergehende Fragen über die Verarbeitung oder Nutzung Ihrer uns\n\n    überlassenen personenbezogenen Daten haben sowie eine Korrektur oder\n\n    Löschung Ihrer Daten veranlassen möchten, so wenden Sie sich bitte an die\n\n    unter Ziffer 9 „Widerspruchs- und Widerrufsrecht“ angegebene\n\n    Kontaktadresse.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong>11. Widerspruchs- und Widerrufsrecht&nbsp;</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie haben das Recht, eine an uns erteilte Einwilligung zur Datenerhebung,\n\n    -verarbeitung und -nutzung zu widerrufen. In diesem Fall werden wir die\n\n    Verarbeitung und Nutzung Ihrer Daten zu diesem Zwecke unverzüglich\n\n    unterlassen, es sei denn, es liegen zwingende, schutzwürdige Gründe für eine\n\n    Verarbeitung vor, die Ihre Interessen, Rechte und Freiheiten überwiegen,\n\n    oder die Verarbeitung ist zur Geltendmachung, Ausübung oder Verteidigung von\n\n    Rechtsansprüchen erforderlich. Einen Widerspruch oder Widerruf können Sie\n\n    jederzeit ohne Angabe von Gründen formlos per Post oder E-Mail an uns\n\n    übermitteln. Die aktuell gültigen notwendigen Kontaktdaten finden Sie auch\n\n    im Impressum unserer Website.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Per Post:&nbsp;Waldburg-Zeil Kliniken GmbH &amp; Co. KG, Zentrale,\n\n    Riedstraße 16, 88316 Isny-Neutrauchburg &nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">Per E-Mail: info@wz-kliniken.de</p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>12. Beschwerderecht bei Aufsichtsbehörde</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Außerdem haben Sie das Recht, sich bei der zuständigen Aufsichtsbehörde über\n\n    datenschutzrechtliche Sachverhalte zu beschweren. Sie können sich an die\n\n    Aufsichtsbehörde Ihres Bundeslandes oder an die Aufsichtsbehörde des\n\n    Bundeslandes, in dem WZK seinen Firmensitz hat, wenden.<br />Die\n\n    Aufsichtsbehörde ist in Deutschland in der Regel der Landesbeauftragte für\n\n    Datenschutz und Informationsfreiheit.<br /><br />&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">(Version 1.1, Stand: 10.04.2024)</p>\n\n\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Datenschutzerklarung\datenschutzerklaerung-modal.html"*/,
+            selector: "datenschutzerklaerung-modal",template:/*ion-inline-start:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Datenschutzerklarung\datenschutzerklaerung-modal.html"*/'<!-- <ion-header>\n\n  <ion-toolbar>\n\n    <ion-title>Datenschutzerklärung</ion-title>\n\n  </ion-toolbar>\n\n</ion-header> -->\n\n\n\n\n\n\n\n<ion-header>\n\n  <ion-toolbar>\n\n    <ion-title>Datenschutzerklärung</ion-title>\n\n    <ion-buttons slot="end">\n\n      <button (click)="close()" style="    position: absolute;      top: -24px;      right: 37px;      background: white;      color: #ffd512;      border: 2px solid #ffd512;      padding: 0 12px;      font-size: 2rem;      font-weight: 500;">\n\n        bestätigen\n\n        <!-- <ion-icon name="close"></ion-icon> -->\n\n      </button>\n\n    </ion-buttons>\n\n  </ion-toolbar>\n\n</ion-header>\n\n\n\n\n\n\n\n\n\n<ion-content>\n\n    <div style="margin:1em;">\n\n  <h2 style="margin-left: 0in"><strong>Datenschutzerklärung</strong></h2>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    zur WZK Applikation und webseitenbasierten Kommunikationsplattform für\n\n    Patienten zu den Waldburg-Zeil Kliniken.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir freuen uns über Ihr Interesse an der&nbsp;WZK Applikation und\n\n    webseitenbasierten Kommunikationsplattform für Patienten. Der Schutz Ihrer\n\n    persönlichen Daten ist uns ein wichtiges Anliegen. Mit dieser\n\n    Datenschutzerklärung möchten wir Sie über die Art, den Umfang und Zweck der\n\n    Erhebung und Verwendung personenbezogener Daten informieren.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>1. Verantwortlicher im Sinne des Datenschutzrechtes</strong>\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Zur Erbringung der nach Nr. 2. der Nutzungsbedingungen der WZK Applikation\n\n    beschriebenen Dienste, erhebt, verarbeitet und nutzt die\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Waldburg-Zeil Kliniken GmbH &amp; Co. KG&nbsp;<br />Zentrale&nbsp;<br />Riedstraße\n\n    16&nbsp;<br />88316 Isny-Neutrauchburg &nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    vertreten durch den Geschäftsführer:\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">Ellio Schneider</p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Email: info@wz-kliniken.de\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Tel.: +49 (0) 7562 71-1135\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    die von den Nutzern der WZK Applikation angegebenen oder freigegebenen\n\n    Daten, sowie die IP-Adresse dessen Endgerätes (nachfolgend „personenbezogene\n\n    Daten”).\n\n  </p>\n\n  <p style="margin-left: 0in"><strong>2. Datenschutzbeauftragter</strong></p>\n\n  <p style="margin-left: 0in">\n\n    Datenschutzbeauftragter der Waldburg-Zeil Kliniken ist:\n\n  </p>\n\n  <p style="margin-left: 0in">Claus Beham</p>\n\n  <p style="margin-left: 0in">Datenschutzbeauftragter@wz-kliniken.de</p>\n\n  <p style="margin-left: 0in">Tel.: +49 (0) 7562 71-1040</p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>3. Zweck der Erhebung, Verarbeitung und Nutzung</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Die personenbezogenen Daten erhebt, verarbeitet und nutzen die Waldburg-Zeil\n\n    Kliniken (im folgenden kurz WZK genannt) ausschließlich zu dem Zweck, die\n\n    mit dem Nutzer im Sinne der Nr. 2 der Nutzungsbedingungen vereinbarten\n\n    Dienste und Leistungen zu erbringen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Grundlage der Datenverarbeitung ist der mit Ihnen geschlossene\n\n    Nutzungsvertrag, der in Nr. 3 der Nutzungsbedingungen beschrieben ist.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sensible personenbezogene Daten (Gesundheitsdaten), die in der WZK App\n\n    hinterlegt werden, werden ausschließlich auf Servern in Deutschland\n\n    gespeichert und verarbeitet.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >4. Datenerhebung, Verarbeitung und Nutzung bei Aufruf der\n\n      webseitenbasierten Kommunikationsplattform</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Beim Aufruf der WZK-App über die entsprechende Website ist es technisch\n\n    notwendig, verschiedene Daten zu erheben, zu verarbeiten und zu nutzen,\n\n    damit eine fehlerfreie Kommunikation zwischen Ihrem Internetbrowser (z.B.\n\n    Internet Explorer, Mozilla Firefox etc.) und unserem Server stabil und\n\n    sicher möglich ist. Dabei werden automatisch folgende Daten erhoben und bis\n\n    zu ihrer automatisierten Löschung nach 30 Tagen in einer so genannten\n\n    Log-Datei protokolliert (funktionale Server-Logs):\n\n  </p>\n\n  <ul>\n\n    <li>IP-Adresse (Internet-Protokoll-Adresse, ungekürzt)</li>\n\n    <li>Datum und Uhrzeit der Anfrage</li>\n\n    <li>Zeitzonendifferenz zur GMT (GMT = Greenwich Mean Time)</li>\n\n    <li>URL der Seite</li>\n\n    <li>Zugriffsstatus / HTTP-Statuscode</li>\n\n    <li>Übertragene Datenmenge</li>\n\n    <li>\n\n      Referrer (das bezeichnet die Internetseite, von der ein zugreifendes\n\n      System auf unsere Internetseite gelangt)\n\n    </li>\n\n    <li>Browser (Typ und Version)</li>\n\n    <li>Betriebssystem des zugreifenden Rechners</li>\n\n  </ul>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir erheben diese Daten in anonymisierter Form, so dass die Daten keiner\n\n    bestimmten oder bestimmbaren Person zugeordnet werden können. Dies geschieht\n\n    zum Zwecke der systeminternen technischen Verarbeitung (Verbindungsaufbau),\n\n    der Systemsicherheit, der technischen Administration der System- und\n\n    Netzinfrastruktur sowie zur Optimierung des Internetangebotes und zu\n\n    statistischen Zwecken. Rechtsgrundlage für die Datenerhebung und\n\n    -verarbeitung ist unser berechtigtes Interesse gemäß Art. 6 Abs. 1 S. 1 lit.\n\n    f) DSGVO. Wir behalten uns jedoch vor, die Log-Datei nachträglich zu\n\n    überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht\n\n    einer rechtswidrigen Nutzung besteht.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >5. Datenerhebung, Verarbeitung und Nutzung bei Aufruf der mobilen\n\n      WZK-App</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Beim Aufruf der WZK-App über das entsprechende mobile Endgerät ist es\n\n    technisch notwendig, verschiedene Daten zu erheben, zu verarbeiten und zu\n\n    nutzen, damit eine fehlerfreie Kommunikation zwischen Ihrem mobilen Endgerät\n\n    und unserem Server stabil und sicher möglich ist. Dabei werden automatisch\n\n    folgende Daten erhoben und bis zu ihrer automatisierten Löschung nach 30\n\n    Tagen in einer so genannten Log-Datei protokolliert (funktionale\n\n    Server-Logs):\n\n  </p>\n\n  <ul>\n\n    <li>IP-Adresse (Internet-Protokoll-Adresse, ungekürzt)</li>\n\n    <li>Datum und Uhrzeit der Anfrage</li>\n\n    <li>Zeitzonendifferenz zur GMT (GMT = Greenwich Mean Time)</li>\n\n    <li>URL der Seite</li>\n\n    <li>Zugriffsstatus / HTTP-Statuscode</li>\n\n    <li>Übertragene Datenmenge</li>\n\n    <li>\n\n      Referrer (das bezeichnet die Internetseite, von der ein zugreifendes\n\n      System auf unsere Internetseite gelangt)\n\n    </li>\n\n    <li>Browser (Typ und Version)</li>\n\n    <li>Betriebssystem des zugreifenden Rechners</li>\n\n  </ul>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wir erheben diese Daten in anonymisierter Form, so dass die Daten keiner\n\n    bestimmten oder bestimmbaren Person zugeordnet werden können. Dies geschieht\n\n    zum Zwecke der systeminternen technischen Verarbeitung (Verbindungsaufbau),\n\n    der Systemsicherheit, der technischen Administration der System- und\n\n    Netzinfrastruktur sowie zur Optimierung des Internetangebotes und zu\n\n    statistischen Zwecken. Rechtsgrundlage für die Datenerhebung und\n\n    -verarbeitung ist unser berechtigtes Interesse gemäß Art. 6 Abs. 1 S. 1 lit.\n\n    f) DSGVO. Wir behalten uns jedoch vor, die Log-Datei nachträglich zu\n\n    überprüfen, wenn aufgrund konkreter Anhaltspunkte der berechtigte Verdacht\n\n    einer rechtswidrigen Nutzung besteht.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in"><strong>6. Einsatz von Cookies</strong></p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Cookies sind Textdateien, die auf Ihrem System gespeichert werden, um Sie\n\n    wieder zu erkennen, wenn Sie die WZK-App erneut aufrufen. Die verwendeten\n\n    Cookies enthalten eine anonymisierte Kennung. Wir nutzen Cookies\n\n    ausschließlich, um die Inhalte unseres Portals besser an die Nutzer anpassen\n\n    zu können.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn sie keine Cookies akzeptieren, können sie diese in Ihrem Browser oder\n\n    auf Ihrem mobilen Endgerät einschränken oder deaktivieren. Es kann dann\n\n    allerdings zu einer eingeschränkten Nutzbarkeit unserer Webinhalte kommen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">&nbsp;</p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    <strong>7. Web-Analyse</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Unsere WZK-App verwendet Funktionen des Webanalysedienste Google\n\n    Analytics.&nbsp;Betreibergesellschaft der Google-Analytics-Komponente ist\n\n    die Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Dazu werden Cookies verwendet, die eine Analyse der Benutzung der Website\n\n    durch Ihre Benutzer ermöglicht. Die dadurch erzeugten Informationen werden\n\n    auf den Server des Anbieters in die Vereinigten Staaten von Amerika\n\n    übertragen und dort gespeichert.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie können dies verhindern, indem Sie Ihren Browser oder Ihr mobiles\n\n    Endgerät so einrichten, dass keine Cookies gespeichert werden.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Ihre IP-Adresse wird erfasst, aber umgehend pseudonymisiert. Dadurch ist nur\n\n    eine grobe Lokalisierung möglich. Die Beziehung zum Webanalyseanbieter\n\n    basiert auf dem Abkommen EU-US Privacy Shield und erfüllt die\n\n    Datenschutzbestimmungen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des\n\n    Art. 6 Abs. 1 S. 1 lit. a) (Einwilligung) und/oder f) (berechtigtes\n\n    Interesse) der DSGVO.&nbsp;Weitere Informationen zu den Nutzungsbedingungen\n\n    und Datenschutzrichtlinien der Google Inc. finden Sie auf&nbsp;<a\n\n      href="http://www.google.com/analytics/terms/de.html"\n\n      >http://www.google.com/analytics/terms/de.html</a\n\n    >&nbsp;und unter&nbsp;<a href="https://www.google.de/intl/de/policies/"\n\n      >https://www.google.de/intl/de/policies/</a\n\n    >.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Unser Anliegen im Sinne der DSGVO (berechtigtes Interesse) ist die\n\n    Verbesserung unseres Angebotes und unseres Webauftritts. Da uns die\n\n    Privatsphäre unserer Nutzer wichtig ist, werden die Nutzerdaten\n\n    pseudonymisiert.&nbsp;Mit der Google-Analytics-Komponente werden die\n\n    Besucherströme auf unserer Internetseite analysiert. Google nutzt die\n\n    gewonnenen Daten und Informationen unter anderem dazu, die Nutzung unserer\n\n    Internetseite auszuwerten, um für uns Online-Reports, welche die Aktivitäten\n\n    auf unseren Internetseiten aufzeigen, zusammenzustellen, und um weitere mit\n\n    der Nutzung unserer Internetseite in Verbindung stehende Dienstleistungen zu\n\n    erbringen.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    <strong>8. Social Plug-Ins</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Auf unserer WZK-App sind Plugins des sozialen Netzwerks Facebook, 1601 South\n\n    California Avenue, Palo Alto, CA 94304, USA integriert.&nbsp;Die\n\n    Facebook-Plugins erkennen&nbsp;Sie an dem Facebook-Logo oder dem\n\n    "Like-Button ("Gefällt mir") auf unserer Seite. Eine Übersicht über\n\n    die&nbsp;<a href="http://developers.facebook.com/docs/plugins/"\n\n      >Facebook-Plugins finden Sie hier</a\n\n    >. Wenn Sie unsere Seiten besuchen, wird über das Plugin eine direkte\n\n    Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt.\n\n    Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse\n\n    unsere Seite besucht haben. Wenn Sie den Facebook "Like-Button" anklicken\n\n    während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die\n\n    Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann\n\n    Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Wir weisen\n\n    darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der\n\n    übermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere\n\n    Informationen hierzu finden Sie in&nbsp;der Datenschutzerklärung&nbsp;von\n\n    facebook unter&nbsp;<a href="http://de-de.facebook.com/policy.php"\n\n      >http://de-de.facebook.com/policy.php</a\n\n    >. Die Datenverarbeitung erfolgt auf Basis der gesetzlichen Bestimmungen des\n\n    Art. 6 Abs. 1 S. 1 lit. a) (Einwilligung) der DSGVO.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn Sie nicht wünschen, dass Facebook den Besuch unserer Seiten Ihrem\n\n    Facebook-Nutzerkonto zuordnen kann, loggen Sie sich bitte aus Ihrem\n\n    Facebook-Benutzerkonto aus.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong\n\n      >9. weitere Informationen zu einzelnen Datenverarbeitungsprozessen</strong\n\n    >\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Im Folgenden informieren wir Sie über die Prozesse, bei denen die WZK-App\n\n    personenbezogenen Daten nutzt und verarbeitet. Wir kommen damit unseren\n\n    Informationspflichten gemäß Art. 13 &amp; 14 DSGVO nach.\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>Eintragung für Newsletter</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Betroffene Personengruppen: Interessenten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: Identifikationsdaten,\n\n        Kommunikationsdaten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">Zweck: Erhalten eines Newsletters</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: &nbsp;Erteilung einer Einwilligung zur Verarbeitung\n\n        (Art. 6 Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich\n\n        für vorvertragliche Maßnahmen auf Anfrage der betroffenen Person (Art. 6\n\n        Abs. 1 S. 1 lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Der Interessent bekommt keinen\n\n        Newsletter zugesendet\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Empfänger: WZK-Mitarbeiter; wir nutzen für die Speicherung Ihrer\n\n        E-Mail-Adresse und zur Versendung der Newsletter den\n\n        Newsletterversender...... in Deutschland\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: E-Mail Adressen für Newsletter werden bis auf\n\n        Widerruf gespeichert.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    <strong>Registrierungsprozess in der WZK-App:</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Betroffene Personengruppen: Interessenten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: Identifikationsdaten (Nutzername,\n\n        Passwort, nutzerbezogener Zugangscode), Kommunikationsdaten\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Zweck: Identifizierung der Nutzers zur Registrierung/Anmeldung in der\n\n        WZK-App&nbsp;\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: Erteilung einer Einwilligung zur Verarbeitung (Art. 6\n\n        Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich für\n\n        vorvertragliche Maßnahmen auf Anfrage der betroffenen Person (Art. 6\n\n        Abs. 1 S. 1 lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Die App, oder Teilbereiche der App\n\n        können nicht verwendet werden\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">Empfänger: WZK-Mitarbeiter</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: Soweit wir nicht rechtlich anders verpflichtet\n\n        sind, werden Ihre Account-Daten bis zur Löschung des WZK-Accounts sicher\n\n        gespeichert bei Ihrer Abmeldung innerhalb 1 Monats gelöscht.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">&nbsp;&nbsp;</p>\n\n  <p style="margin-left: 0in">\n\n    <strong>Dokumentenmanagement in der WZK-App:</strong>\n\n  </p>\n\n  <ul>\n\n    <li>\n\n      <p style="text-align: justify">Betroffene Personengruppen: Nutzer</p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Verarbeitete personenbezogene Daten: alle von Ihnen nach dem\n\n        Registrierungsprozess über die WZK-App auf dem "Patient-Klinik-Weg" an\n\n        uns übermittelte Daten (wie z.B. Anamnesebogen, medizinische Dokumente\n\n        etc.); alle von uns an Sie auf dem "Klinik-Patient-Weg" nach dem\n\n        Registrierungsprozess über die WZK-App übermittelte Daten (wie z.B.\n\n        Befunde, medizinische Unterlagen etc.).\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Zweck: Die Versendung, Speicherung und Verwaltung der medizinischen\n\n        Unterlagen ist wesentlicher Zweck der WZK-App.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Rechtsgrundlage: Erteilung einer Einwilligung zur Verarbeitung (Art. 6\n\n        Abs. 1 S. 1 lit. a) DSGVO) und die Verarbeitung ist erforderlich zur\n\n        Erfüllung eines Vertrages mit der betroffenen Person (Art. 6 Abs. 1 S. 1\n\n        lit. b) DSGVO)\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Folgen der Nicht-Bereitstellung: Keine Möglichkeit das\n\n        Dokumentenmanagement der WZK-App zu nutzen bzw. eingeschränkte\n\n        Nutzbarkeit.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Empfänger: Gesundheitsdaten, die Sie an uns bereitstellen, werden\n\n        verschlüsselt verwaltet im Krankenhausinformationssystem der WZ-Kliniken\n\n        auf Servern in Deutschland. Zum Zwecke der Aufbereitung der von Ihnen\n\n        übermittelten Gesundheitsdaten in ein pdf-Dokument werden diese auf\n\n        Servern der Wz-Kliniken, in Deutschland zwischengespeichert und sodann\n\n        verschlüsselt an das KIS der WZ-Kliniken weitergeleitet. Empfänger der\n\n        von uns an Sie übermittelten medizinischen Unterlagen sind\n\n        ausschließlich Sie.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Übermittlung Drittland: Findet nicht statt.\n\n      </p>\n\n    </li>\n\n    <li>\n\n      <p style="text-align: justify">\n\n        Dauer der Speicherung: Soweit wir nicht rechtlich anders verpflichtet\n\n        sind, werden die von Ihnen an uns übermittelten Daten bis zur Löschung\n\n        Ihres WZK-App-Accounts sicher gespeichert. Das bei der Übermittlung\n\n        erzeugte pdf-Dokument bleibt dort 14 Tage gespeichert und wird danach\n\n        automatisch und routinemäßig gelöscht. Es ist danach nur noch im KIS der\n\n        WZ-Kliniken gespeichert.\n\n      </p>\n\n    </li>\n\n  </ul>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>10. Schutz der Privatsphäre</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    WZK verpflichtet sich, Ihre Privatsphäre zu schützen und versichert, die\n\n    personenbezogenen Daten im Einklang mit dem Bundesdatenschutzgesetz, der\n\n    Datenschutzgrundverordnung und dem Telemediengesetz zu erheben, zu\n\n    verarbeiten und zu nutzen und ausschließlich für die Erfüllung der unter Nr.\n\n    2 definierten Zwecke zu verarbeiten und zu nutzen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Diese webseitenbasierte Kommunikationsplattform nutzt aus Gründen der\n\n    Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie zum\n\n    Beispiel der Anfragen, die Sie an uns senden, eine SSL-Verschlüsselung. Eine\n\n    verschlüsselte Verbindung ist daran zu erkennen, dass die Adresszeile des\n\n    Browsers von "http://" auf "https://" wechselt und an dem Schloss-Symbol in\n\n    der Browserzeile.\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn die SSL Verschlüsselung aktiviert ist, können die Daten, die Sie an WZK\n\n    übermitteln, in der Regel nicht von Dritten mitgelesen werden.\n\n  </p>\n\n  <p style="margin-left: 0in"><strong>11. Einwilligung</strong></p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sofern Sie in die Bedingungen dieser Erklärung einwilligen, erklären Sie\n\n    sich mit der hier geregelten Nutzung Ihrer personenbezogenen Daten\n\n    einverstanden. Die Einwilligung oder ihre Verweigerung erfolgt durch Klicken\n\n    oder Nichtklicken auf das entsprechende Feld nach dem Hinweis auf diese\n\n    Bestimmungen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong>10. Auskunftsrecht und Datenberichtigung&nbsp;</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie haben einen gesetzlichen Anspruch auf jederzeitige, unentgeltliche\n\n    Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten. Ferner\n\n    steht Ihnen das Recht zu, unrichtige Daten berichtigen sowie Daten sperren\n\n    und löschen zu lassen.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Wenn Sie Auskunft über Ihre personenbezogenen Daten wünschen oder\n\n    weitergehende Fragen über die Verarbeitung oder Nutzung Ihrer uns\n\n    überlassenen personenbezogenen Daten haben sowie eine Korrektur oder\n\n    Löschung Ihrer Daten veranlassen möchten, so wenden Sie sich bitte an die\n\n    unter Ziffer 9 „Widerspruchs- und Widerrufsrecht“ angegebene\n\n    Kontaktadresse.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    <strong>11. Widerspruchs- und Widerrufsrecht&nbsp;</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Sie haben das Recht, eine an uns erteilte Einwilligung zur Datenerhebung,\n\n    -verarbeitung und -nutzung zu widerrufen. In diesem Fall werden wir die\n\n    Verarbeitung und Nutzung Ihrer Daten zu diesem Zwecke unverzüglich\n\n    unterlassen, es sei denn, es liegen zwingende, schutzwürdige Gründe für eine\n\n    Verarbeitung vor, die Ihre Interessen, Rechte und Freiheiten überwiegen,\n\n    oder die Verarbeitung ist zur Geltendmachung, Ausübung oder Verteidigung von\n\n    Rechtsansprüchen erforderlich. Einen Widerspruch oder Widerruf können Sie\n\n    jederzeit ohne Angabe von Gründen formlos per Post oder E-Mail an uns\n\n    übermitteln. Die aktuell gültigen notwendigen Kontaktdaten finden Sie auch\n\n    im Impressum unserer Website.&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">\n\n    Per Post:&nbsp;Waldburg-Zeil Kliniken GmbH &amp; Co. KG, Zentrale,\n\n    Riedstraße 16, 88316 Isny-Neutrauchburg &nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">Per E-Mail: info@wz-kliniken.de</p>\n\n  <p style="margin-left: 0in">\n\n    <br /><strong>12. Beschwerderecht bei Aufsichtsbehörde</strong>\n\n  </p>\n\n  <p style="margin-left: 0in; text-align: justify">\n\n    Außerdem haben Sie das Recht, sich bei der zuständigen Aufsichtsbehörde über\n\n    datenschutzrechtliche Sachverhalte zu beschweren. Sie können sich an die\n\n    Aufsichtsbehörde Ihres Bundeslandes oder an die Aufsichtsbehörde des\n\n    Bundeslandes, in dem WZK seinen Firmensitz hat, wenden.<br />Die\n\n    Aufsichtsbehörde ist in Deutschland in der Regel der Landesbeauftragte für\n\n    Datenschutz und Informationsfreiheit.<br /><br />&nbsp;\n\n  </p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">&nbsp;</p>\n\n  <p style="margin-left: 0in">(Version 1.1, Stand: 10.04.2024)</p>\n\n\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\ger\wzk\front\3 wzk few options4\3 wzk few options\clinic_app_frontend\src\pages\Datenschutzerklarung\datenschutzerklaerung-modal.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["r" /* ViewController */]])
     ], DatenschutzerklaerungModalPage);
@@ -4415,7 +4415,7 @@ var DatenschutzerklaerungModalPage = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 464:
+/***/ 463:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4478,7 +4478,7 @@ Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* pl
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_map__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_statics__ = __webpack_require__(102);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__storage_manager_storage_manager__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__ = __webpack_require__(616);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__ = __webpack_require__(608);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_util_isObject__);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -5432,7 +5432,7 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_auth_manager_auth_manager__ = __webpack_require__(55);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_gui_manager_gui_manager__ = __webpack_require__(40);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__providers_storage_manager_storage_manager__ = __webpack_require__(39);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_storage__ = __webpack_require__(184);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__ionic_storage__ = __webpack_require__(183);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__providers_checkin_service_checkin_service__ = __webpack_require__(110);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__providers_api_api__ = __webpack_require__(48);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__providers_touch_manager_touch_manager__ = __webpack_require__(450);
@@ -5445,19 +5445,19 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__ionic_native_file_opener__ = __webpack_require__(399);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__pages_food_card_modal_box_page__ = __webpack_require__(460);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22_ionic2_calendar__ = __webpack_require__(455);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_geolocation__ = __webpack_require__(461);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__ionic_native_geolocation__ = __webpack_require__(464);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__ionic_native_in_app_browser__ = __webpack_require__(465);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__providers_draw_draw__ = __webpack_require__(180);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__providers_messages_messages__ = __webpack_require__(181);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__providers_debugger_debugger__ = __webpack_require__(456);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_calendar__ = __webpack_require__(183);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__providers_calendar_calendarProvider__ = __webpack_require__(451);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__ionic_native_calendar__ = __webpack_require__(185);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__providers_calendar_calendarProvider__ = __webpack_require__(453);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__ionic_native_file_chooser__ = __webpack_require__(457);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__ionic_native_file_path__ = __webpack_require__(459);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__ionic_native_file_picker__ = __webpack_require__(458);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__ionic_native_background_fetch__ = __webpack_require__(400);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__ionic_native_phonegap_local_notification__ = __webpack_require__(401);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__ionic_native_firebase__ = __webpack_require__(185);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__ionic_native_firebase__ = __webpack_require__(184);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__providers_platform_manager_platform_manager__ = __webpack_require__(54);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__providers_link_manager_link_manager__ = __webpack_require__(78);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__providers_activity_tracker_activity_tracker__ = __webpack_require__(186);
@@ -5467,9 +5467,9 @@ var AuthManagerProvider = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__environments_environment__ = __webpack_require__(665);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__angular_http__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__pages_simple_text_modal_simple_text_modal__ = __webpack_require__(666);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__pages_Nutzungsbedingungen_nutzungsbedingungen_modal__ = __webpack_require__(462);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__pages_Datenschutzerklarung_datenschutzerklaerung_modal__ = __webpack_require__(463);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__pages_help_help_modal__ = __webpack_require__(464);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__pages_Nutzungsbedingungen_nutzungsbedingungen_modal__ = __webpack_require__(461);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__pages_Datenschutzerklarung_datenschutzerklaerung_modal__ = __webpack_require__(462);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__pages_help_help_modal__ = __webpack_require__(463);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -5547,40 +5547,40 @@ var AppModule = /** @class */ (function () {
                     autoFocusAssist: false,
                 }, {
                     links: [
-                        { loadChildren: '../pages/calendar.module/calendar/calendar.module#CalendarPageModule', name: 'CalendarPage', segment: 'calendar', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/calendar.module/event-modal/event-modal.module#EventModalPageModule', name: 'EventModalPage', segment: 'event-modal', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/checkin-for-doctors/checkin-for-doctors.module#CheckinForDoctorsPageModule', name: 'CheckinForDoctorsPage', segment: 'checkin-for-doctors', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/document/document.module#DocumentPageModule', name: 'DocumentPage', segment: 'document', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/debugger/debugger.module#DebuggerPageModule', name: 'DebuggerPage', segment: 'debugger', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/draw/draw.module#DrawPageModule', name: 'DrawPage', segment: 'draw', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/checkin/checkin.module#CheckinPageModule', name: 'CheckinPage', segment: 'checkin', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/email-confirmation/email-confirmation.module#EmailConfirmationPageModule', name: 'EmailConfirmation', segment: 'email-confirmation', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/calendar.module/calendar/calendar.module#CalendarPageModule', name: 'CalendarPage', segment: 'calendar', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/checkin-for-doctors/checkin-for-doctors.module#CheckinForDoctorsPageModule', name: 'CheckinForDoctorsPage', segment: 'checkin-for-doctors', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/debugger/debugger.module#DebuggerPageModule', name: 'DebuggerPage', segment: 'debugger', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/document/document.module#DocumentPageModule', name: 'DocumentPage', segment: 'document', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/file-upload/file-upload.module#FileUploadPageModule', name: 'FileUploadPage', segment: 'file-upload', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/food-card/food-card.module#FoodCardPageModule', name: 'FoodCardPage', segment: 'food-card', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/info-item/info-item.module#InfoItemPageModule', name: 'InfoItemPage', segment: 'info-item', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/email-confirmation/email-confirmation.module#EmailConfirmationPageModule', name: 'EmailConfirmation', segment: 'email-confirmation', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/draw/draw.module#DrawPageModule', name: 'DrawPage', segment: 'draw', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/imprint/imprint.module#ImprintPageModule', name: 'ImprintPage', segment: 'imprint', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/food-card/food-card.module#FoodCardPageModule', name: 'FoodCardPage', segment: 'food-card', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/intro-slider/intro-slider.module#IntroSliderPageModule', name: 'IntroSliderPage', segment: 'intro-slider', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/info-item/info-item.module#InfoItemPageModule', name: 'InfoItemPage', segment: 'info-item', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/info-list/info-list.module#InfoListPageModule', name: 'InfoListPage', segment: 'info-list', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/map/map.module#MapPageModule', name: 'MapPage', segment: 'map', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/login/login.module#LoginPageModule', name: 'LoginPage', segment: 'login', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/map/map.module#MapPageModule', name: 'MapPage', segment: 'map', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/message-center/message-center.module#MessageCenterPageModule', name: 'MessageCenterPage', segment: 'message-center', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/news-item/news-item.module#NewsItemPageModule', name: 'NewsItemPage', segment: 'news-item', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/news/news.module#NewsPageModule', name: 'NewsPage', segment: 'news', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/news-item/news-item.module#NewsItemPageModule', name: 'NewsItemPage', segment: 'news-item', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/privacy/privacy.module#PrivacyPageModule', name: 'PrivacyPage', segment: 'privacy', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/news-list/news-list.module#NewsListPageModule', name: 'NewsListPage', segment: 'news-list', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/password-reset/password-reset.module#PasswordResetPageModule', name: 'PasswordResetPage', segment: 'password-reset', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/privacy/privacy.module#PrivacyPageModule', name: 'PrivacyPage', segment: 'privacy', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/start-text/start-text.module#StartTextPageModule', name: 'StartTextPage', segment: 'start-text', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/start-filter/start-filter.module#StartFilterPageModule', name: 'StartFilterPage', segment: 'start-filter', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/tos/tos.module#TosPageModule', name: 'TosPage', segment: 'tos', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/text/text.module#TextPageModule', name: 'TextPage', segment: 'text', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/therapy-entry/therapy-entry.module#TherapyEntryPageModule', name: 'TherapyEntryPage', segment: 'therapy-entry', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-account-information/user-settings-account-information.module#UserSettingsAccountInformationPageModule', name: 'UserSettingsAccountInformationPage', segment: 'user-settings-account-information', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/therapy-entry/therapy-entry.module#TherapyEntryPageModule', name: 'TherapyEntryPage', segment: 'therapy-entry', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/tos/tos.module#TosPageModule', name: 'TosPage', segment: 'tos', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/user-settings-change-password/user-settings-change-password.module#UserSettingsChangePasswordPageModule', name: 'UserSettingsChangePasswordPage', segment: 'user-settings-change-password', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-create-account/user-settings-create-account.module#UserSettingsCreateAccountPageModule', name: 'UserSettingsCreateAccountPage', segment: 'user-settings-create-account', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-message-center/user-settings-message-center.module#UserSettingsMessageCenterPageModule', name: 'UserSettingsMessageCenterPage', segment: 'user-settings-message-center', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings-change-password/user-settings-change-password.module#UserSettingsChangePasswordPageModule', name: 'UserSettingsChangePasswordPage', segment: 'user-settings-change-password', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/user-settings-push-notification/user-settings-push-notification.module#UserSettingsPushNotificationPageModule', name: 'UserSettingsPushNotificationPage', segment: 'user-settings-push-notification', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-fingerprint-activation/user-settings-fingerprint-activation.module#UserSettingsFingerprintActivationPageModule', name: 'UserSettingsFingerprintActivationPage', segment: 'user-settings-fingerprint-activation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings-refill-keys/user-settings-refill-keys.module#UserSettingsRefillKeysPageModule', name: 'UserSettingsRefillKeysPage', segment: 'user-settings-refill-keys', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/user-settings-push-notification/user-settings-push-notification.module#UserSettingsPushNotificationPageModule', name: 'UserSettingsPushNotificationPage', segment: 'user-settings-push-notification', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/user-settings/user-settings.module#UserSettingsPageModule', name: 'UserSettingsPage', segment: 'user-settings', priority: 'low', defaultHistory: [] }
                     ]
                 }),
@@ -5939,27 +5939,7 @@ webpackContext.id = 605;
 
 /***/ }),
 
-/***/ 613:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserCalendar; });
-var UserCalendar = /** @class */ (function () {
-    function UserCalendar(name, displayname, id, sync) {
-        if (sync === void 0) { sync = false; }
-        this.name = name;
-        this.displayname = displayname;
-        this.id = id;
-        this.sync = sync;
-    }
-    return UserCalendar;
-}());
-
-//# sourceMappingURL=calendarUserCalendar.Model.js.map
-
-/***/ }),
-
-/***/ 625:
+/***/ 617:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5975,7 +5955,7 @@ var File = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 626:
+/***/ 625:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6643,6 +6623,26 @@ var WebForm = /** @class */ (function () {
 }());
 
 //# sourceMappingURL=form-modal.js.map
+
+/***/ }),
+
+/***/ 626:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UserCalendar; });
+var UserCalendar = /** @class */ (function () {
+    function UserCalendar(name, displayname, id, sync) {
+        if (sync === void 0) { sync = false; }
+        this.name = name;
+        this.displayname = displayname;
+        this.id = id;
+        this.sync = sync;
+    }
+    return UserCalendar;
+}());
+
+//# sourceMappingURL=calendarUserCalendar.Model.js.map
 
 /***/ }),
 
